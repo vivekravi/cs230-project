@@ -1,42 +1,23 @@
-# ChexNet-Keras
-This project is a tool to build CheXNet-like models, written in Keras.
+# ChexNet-CS230 Project
+Install dependencies by running `pip3 install -r requirements.txt` at first.
 
-<img width="1350" height="450" src="cam_example.png" alt="CAM example image"/>
+## Introduction
+ChexNet(https://arxiv.org/pdf/1711.05225.pdf) is a deep learning algorithm that can detect and categorize 14 kinds of diseases from chest X-ray images. As described in the paper, a 121-layer densely connected convolutional neural network is trained on ChestX-ray14 dataset, which contains 112,120 frontal view X-ray images from 30,805 unique patients.
 
-## What is [CheXNet](https://arxiv.org/pdf/1711.05225.pdf)?
-ChexNet is a deep learning algorithm that can detect and localize 14 kinds of diseases from chest X-ray images. As described in the paper, a 121-layer densely connected convolutional neural network is trained on ChestX-ray14 dataset, which contains 112,120 frontal view X-ray images from 30,805 unique patients. The result is so good that it surpasses the performance of practicing radiologists. If you are new to this project, [Luke Oakden-Rayner's post](https://lukeoakdenrayner.wordpress.com/2017/12/18/the-chestxray14-dataset-problems/) is highly recommended.
+The codes of implemented models were based on [Chou's work](https://github.com/brucechou1983/CheXNet-Keras). This project started from pre-trained weights in `data/default_split/best_weights.h5`. However, AUROC scores are very low as 0.5 for some classes. Then this pre-trained weights were used as the staring point for training dataset to update weights. After it, the AUROC scores were improved a lot.
 
-## In this project, you can
-1. Train/test a **baseline model** by following the quickstart. You can get a model with performance close to the paper.
-2. Run class activation mapping to see the localization of your model.
-3. Modify `multiply` parameter in `config.ini` or design your own class weighting to see if you can get better performance.
-4. Modify `weights.py` to customize your weights in loss function. If you find something useful, feel free to make that an option and fire a PR.
-5. Every time you do a new experiment, make sure you modify `output_dir` in `config.ini` otherwise previous training results might be overwritten. For more options check the parameter description in `config.ini`.
+## Train and Test Models
+1. Modify parameters in `config.ini` to specify the output_dir for saving ouput results, image_source_dir for input path of images.
+2. The retrained weights `data/default_split/best_weights_20191029_test2.h5` file.
+3. Run `python train.py` to train a new model on the training dataset. 
+4. Run `python test.py` to evaluate the model on the test dataset.
 
-## Quickstart
+## Dataset
 **Note that currently this project can only be executed in Linux and macOS. You might run into some issues in Windows.**
-1. Download **all tar files**, **Data_Entry_2017.csv** and **BBox_List_2017.csv** of ChestX-ray14 dataset from [NIH dropbox](https://nihcc.app.box.com/v/ChestXray-NIHCC). Put them under `./data` folder and untar all tar files.
-2. Create & source a new virtualenv. Python >= **3.6** is required.
-3. Install dependencies by running `pip3 install -r requirements.txt`.
-4. Copy sample_config.ini to config.ini, you may customize `batch_size` and training parameters here. Make sure config.ini is configured before you run training or testing
-5. Run `python train.py` to train a new model. If you want to run the training using multiple GPUs, just prepend `CUDA_VISIBLE_DEVICES=0,1,...` to restrict the GPU devices. `nvidia-smi` command will be helpful if you don't know which device are available.
-6. Run `python test.py` to evaluate your model on the test set.
-7. Run `python cam.py` to generate images with class activation mapping overlay and the ground bbox. The ground truth comes from the **BBox_List_2017.csv** file so make sure you have that file in `./data` folder. CAM images will be placed under the output folder.
-
-## Trained model weights
-Many people are asking for a trained model, [there you go](https://drive.google.com/open?id=19BllaOvs2x5PLV_vlWMy4i8LapLb2j6b). I use this model to create the CAM example images. The testing mean auroc is about 82.9. Again, before you ask about comparing results with the original paper, think about how to do that in a meaningful way.
-
-## Important notice for CUDA 9 users
-If you use >= CUDA 9, make sure you set tensorflow_gpu >= 1.5.
-
-## TODO
-1. Frontend
-
-## Acknowledgement
-I would like to thank Pranav Rajpurkar (Stanford ML group) and Xinyu Weng (北京大學) for sharing their experiences on this task. Also I would like to thank Felix Yu for providing DenseNet-Keras source code.
+1. Currently [NIH dataset](https://nihcc.app.box.com/v/ChestXray-NIHCC) were added into `train.csv`, `dev.csv` and `test.csv` in `data/default_split` folder.
+2. Another new dataset [MIMIC-CXR](https://physionet.org/content/mimic-cxr/2.0.0/) will be added. The X-ray report will be converted to the class labels for new train, dev and test dataset. 
 
 ## Author
-Bruce Chou (brucechou1983@gmail.com)
-
-## License
-MIT
+Viveak Ravichandiran (SUNet ID: vravicha)
+Aditya Srivastava(SUNet ID: adityaks)
+Ying Chen (SUNet ID: smileyc)
