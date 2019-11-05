@@ -1,0 +1,1501 @@
+Image Index,Patient ID,Finding Labels,No Finding,Atelectasis,Cardiomegaly,Pleural Effusion,Pneumonia,Pneumothorax,Consolidation,Edema
+s50414267.txt,p10000032,Pneumonia,0,0,0,0,1,0,0,0
+s53189527.txt,p10000032,No Finding,1,0,0,0,0,0,0,0
+s53911762.txt,p10000032,No Finding,1,0,0,0,0,0,0,0
+s56699142.txt,p10000032,No Finding,1,0,0,0,0,0,0,0
+s57375967.txt,p10000764,Pneumonia|Consolidation,0,0,0,0,1,0,1,0
+s50771383.txt,p10000898,No Finding,1,0,0,0,0,0,0,0
+s54205396.txt,p10000898,Pleural Effusion|Pneumonia,0,0,0,1,1,0,0,0
+s50578979.txt,p10000935,Pleural Effusion|Pneumonia|Pneumothorax|Edema,0,0,0,1,1,1,0,1
+s51178377.txt,p10000935,Pneumonia|Pneumothorax,0,0,0,0,1,1,0,0
+s55697293.txt,p10000935,No Finding,1,0,0,0,0,0,0,0
+s56164612.txt,p10000935,No Finding,1,0,0,0,0,0,0,0
+s56522600.txt,p10000935,No Finding,1,0,0,0,0,0,0,0
+s58219844.txt,p10000935,Cardiomegaly|Consolidation|Edema,0,0,1,0,0,0,1,1
+s50985099.txt,p10000980,Cardiomegaly|Pneumonia|Edema,0,0,1,0,1,0,0,1
+s51967283.txt,p10000980,Pleural Effusion|Pneumonia,0,0,0,1,1,0,0,0
+s54577367.txt,p10000980,Cardiomegaly|Pleural Effusion|Pneumothorax,0,0,1,1,0,1,0,0
+s54935705.txt,p10000980,Cardiomegaly|Pleural Effusion|Pneumonia|Consolidation|Edema,0,0,1,1,1,0,1,1
+s54980801.txt,p10000980,Edema,0,0,0,0,0,0,0,1
+s57861150.txt,p10000980,Atelectasis|Cardiomegaly|Pleural Effusion|Edema,0,1,1,1,0,0,0,1
+s58206436.txt,p10000980,Cardiomegaly|Pleural Effusion|Edema,0,0,1,1,0,0,0,1
+s58636672.txt,p10000980,Cardiomegaly|Pleural Effusion|Edema,0,0,1,1,0,0,0,1
+s59988438.txt,p10000980,Pleural Effusion|Pneumonia|Edema,0,0,0,1,1,0,0,1
+s58224503.txt,p10001038,No Finding,1,0,0,0,0,0,0,0
+s53447138.txt,p10001122,Pneumonia,0,0,0,0,1,0,0,0
+s53957785.txt,p10001122,Pneumothorax,0,0,0,0,0,1,0,0
+s53186264.txt,p10001176,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumothorax|Edema,0,1,1,1,0,1,0,1
+s54684191.txt,p10001176,Atelectasis|Cardiomegaly|Consolidation|Edema,0,1,1,0,0,0,1,1
+s52067803.txt,p10001217,Atelectasis,0,1,0,0,0,0,0,0
+s58913004.txt,p10001217,No Finding,1,0,0,0,0,0,0,0
+s50225296.txt,p10001401,No Finding,1,0,0,0,0,0,0,0
+s51065211.txt,p10001401,Atelectasis|Pleural Effusion|Pneumothorax,0,1,0,1,0,1,0,0
+s55350604.txt,p10001401,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s56534136.txt,p10001401,Cardiomegaly,0,0,1,0,0,0,0,0
+s57492692.txt,p10001401,Atelectasis,0,1,0,0,0,0,0,0
+s58747570.txt,p10001401,Atelectasis|Pleural Effusion|Pneumothorax,0,1,0,1,0,1,0,0
+s59664767.txt,p10001851,Atelectasis|Pleural Effusion|Pneumothorax,0,1,0,1,0,1,0,0
+s50279568.txt,p10001884,No Finding,1,0,0,0,0,0,0,0
+s50376803.txt,p10001884,Cardiomegaly|Consolidation,0,0,1,0,0,0,1,0
+s50712381.txt,p10001884,Cardiomegaly|Pleural Effusion|Edema,0,0,1,1,0,0,0,1
+s50807032.txt,p10001884,Pneumonia|Pneumothorax,0,0,0,0,1,1,0,0
+s51181158.txt,p10001884,Consolidation,0,0,0,0,0,0,1,0
+s51817555.txt,p10001884,Pneumothorax,0,0,0,0,0,1,0,0
+s52060840.txt,p10001884,Consolidation,0,0,0,0,0,0,1,0
+s53109065.txt,p10001884,Atelectasis|Pleural Effusion|Pneumonia|Pneumothorax,0,1,0,1,1,1,0,0
+s53268982.txt,p10001884,Pneumonia|Pneumothorax|Edema,0,0,0,0,1,1,0,1
+s53880659.txt,p10001884,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s53894864.txt,p10001884,Pleural Effusion|Pneumonia,0,0,0,1,1,0,0,0
+s54000534.txt,p10001884,Cardiomegaly|Consolidation|Edema,0,0,1,0,0,0,1,1
+s54369281.txt,p10001884,Atelectasis|Cardiomegaly,0,1,1,0,0,0,0,0
+s54579606.txt,p10001884,No Finding,1,0,0,0,0,0,0,0
+s54828594.txt,p10001884,Atelectasis|Cardiomegaly|Pneumothorax,0,1,1,0,0,1,0,0
+s55333410.txt,p10001884,Cardiomegaly|Pneumonia|Pneumothorax,0,0,1,0,1,1,0,0
+s55893591.txt,p10001884,Cardiomegaly|Pneumothorax|Edema,0,0,1,0,0,1,0,1
+s56308417.txt,p10001884,Atelectasis|Pleural Effusion|Pneumonia|Pneumothorax,0,1,0,1,1,1,0,0
+s56349965.txt,p10001884,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumonia|Pneumothorax,0,1,1,1,1,1,0,0
+s56722923.txt,p10001884,Pleural Effusion|Edema,0,0,0,1,0,0,0,1
+s57156853.txt,p10001884,Edema,0,0,0,0,0,0,0,1
+s57166219.txt,p10001884,Consolidation,0,0,0,0,0,0,1,0
+s57839849.txt,p10001884,No Finding,1,0,0,0,0,0,0,0
+s58196907.txt,p10001884,Edema,0,0,0,0,0,0,0,1
+s58350684.txt,p10001884,Atelectasis|Consolidation,0,1,0,0,0,0,1,0
+s58788638.txt,p10001884,Atelectasis|Pleural Effusion|Pneumothorax|Consolidation,0,1,0,1,0,1,1,0
+s59066712.txt,p10001884,No Finding,1,0,0,0,0,0,0,0
+s59212874.txt,p10001884,Atelectasis|Pneumonia,0,1,0,0,1,0,0,0
+s59305618.txt,p10001884,Pleural Effusion|Pneumonia|Pneumothorax|Edema,0,0,0,1,1,1,0,1
+s59635781.txt,p10001884,Pleural Effusion|Consolidation,0,0,0,1,0,0,1,0
+s59984865.txt,p10001884,No Finding,1,0,0,0,0,0,0,0
+s52163036.txt,p10002013,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumothorax,0,1,1,1,0,1,0,0
+s52535468.txt,p10002013,No Finding,1,0,0,0,0,0,0,0
+s54573731.txt,p10002013,No Finding,1,0,0,0,0,0,0,0
+s55312734.txt,p10002013,Cardiomegaly|Pleural Effusion,0,0,1,1,0,0,0,0
+s55608920.txt,p10002013,Pneumothorax,0,0,0,0,0,1,0,0
+s55941092.txt,p10002013,Consolidation,0,0,0,0,0,0,1,0
+s55969846.txt,p10002013,No Finding,1,0,0,0,0,0,0,0
+s57741292.txt,p10002013,Atelectasis,0,1,0,0,0,0,0,0
+s58054149.txt,p10002013,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s52823782.txt,p10002131,Pleural Effusion|Pneumonia|Consolidation,0,0,0,1,1,0,1,0
+s56373033.txt,p10002157,Pneumothorax,0,0,0,0,0,1,0,0
+s50520012.txt,p10002177,No Finding,1,0,0,0,0,0,0,0
+s53781756.txt,p10002221,Edema,0,0,0,0,0,0,0,1
+s50027225.txt,p10002428,Atelectasis|Pleural Effusion|Pneumonia|Pneumothorax|Consolidation,0,1,0,1,1,1,1,0
+s50292543.txt,p10002428,Atelectasis|Pleural Effusion|Edema,0,1,0,1,0,0,0,1
+s50444997.txt,p10002428,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s50862960.txt,p10002428,Pleural Effusion,0,0,0,1,0,0,0,0
+s51574899.txt,p10002428,Pleural Effusion|Pneumothorax,0,0,0,1,0,1,0,0
+s52460896.txt,p10002428,Pleural Effusion,0,0,0,1,0,0,0,0
+s54020701.txt,p10002428,Pleural Effusion|Edema,0,0,0,1,0,0,0,1
+s54831516.txt,p10002428,Pleural Effusion|Pneumonia|Edema,0,0,0,1,1,0,0,1
+s55758034.txt,p10002428,Pleural Effusion|Pneumonia|Consolidation,0,0,0,1,1,0,1,0
+s56100138.txt,p10002428,Pleural Effusion|Pneumonia|Edema,0,0,0,1,1,0,0,1
+s56597576.txt,p10002428,Pleural Effusion,0,0,0,1,0,0,0,0
+s56836542.txt,p10002428,Atelectasis|Pleural Effusion|Edema,0,1,0,1,0,0,0,1
+s57064083.txt,p10002428,Atelectasis|Cardiomegaly|Pleural Effusion,0,1,1,1,0,0,0,0
+s57321224.txt,p10002428,Pleural Effusion|Pneumothorax,0,0,0,1,0,1,0,0
+s57506266.txt,p10002428,Atelectasis|Pleural Effusion|Edema,0,1,0,1,0,0,0,1
+s57887188.txt,p10002428,Pleural Effusion|Edema,0,0,0,1,0,0,0,1
+s57961288.txt,p10002428,Pleural Effusion,0,0,0,1,0,0,0,0
+s58581921.txt,p10002428,Cardiomegaly|Pleural Effusion|Pneumonia|Consolidation|Edema,0,0,1,1,1,0,1,1
+s58601917.txt,p10002428,Atelectasis|Cardiomegaly|Pleural Effusion,0,1,1,1,0,0,0,0
+s58658824.txt,p10002428,Pleural Effusion|Pneumonia,0,0,0,1,1,0,0,0
+s58838312.txt,p10002428,Pleural Effusion|Pneumothorax,0,0,0,1,0,1,0,0
+s58851198.txt,p10002428,Pleural Effusion,0,0,0,1,0,0,0,0
+s59015983.txt,p10002428,Pneumonia|Consolidation|Edema,0,0,0,0,1,0,1,1
+s59098825.txt,p10002428,Cardiomegaly|Pleural Effusion,0,0,1,1,0,0,0,0
+s59258773.txt,p10002428,Pleural Effusion,0,0,0,1,0,0,0,0
+s59414737.txt,p10002428,Atelectasis|Cardiomegaly|Pleural Effusion,0,1,1,1,0,0,0,0
+s59659695.txt,p10002428,Cardiomegaly|Pleural Effusion|Pneumothorax|Consolidation,0,0,1,1,0,1,1,0
+s59891001.txt,p10002428,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s53254222.txt,p10002430,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s56345275.txt,p10002430,Cardiomegaly,0,0,1,0,0,0,0,0
+s57884847.txt,p10002430,Cardiomegaly|Pleural Effusion|Pneumothorax,0,0,1,1,0,1,0,0
+s58911492.txt,p10002430,Cardiomegaly|Pleural Effusion,0,0,1,1,0,0,0,0
+s50547046.txt,p10002557,Cardiomegaly,0,0,1,0,0,0,0,0
+s52212843.txt,p10002559,Pleural Effusion|Pneumonia|Edema,0,0,0,1,1,0,0,1
+s59849480.txt,p10002559,Pleural Effusion,0,0,0,1,0,0,0,0
+s53368584.txt,p10002661,Pneumothorax,0,0,0,0,0,1,0,0
+s53422998.txt,p10002804,No Finding,1,0,0,0,0,0,0,0
+s55885481.txt,p10002930,Atelectasis|Pleural Effusion|Pneumothorax,0,1,0,1,0,1,0,0
+s50543252.txt,p10003019,Atelectasis|Pneumonia,0,1,0,0,1,0,0,0
+s51117233.txt,p10003019,No Finding,1,0,0,0,0,0,0,0
+s52117631.txt,p10003019,Atelectasis,0,1,0,0,0,0,0,0
+s53098685.txt,p10003019,Pleural Effusion|Consolidation|Edema,0,0,0,1,0,0,1,1
+s53934356.txt,p10003019,Atelectasis|Pneumonia,0,1,0,0,1,0,0,0
+s55487822.txt,p10003019,Consolidation,0,0,0,0,0,0,1,0
+s55931751.txt,p10003019,No Finding,1,0,0,0,0,0,0,0
+s56635465.txt,p10003019,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s57194088.txt,p10003019,Pneumonia|Pneumothorax,0,0,0,0,1,1,0,0
+s58365492.txt,p10003019,Pneumonia|Consolidation,0,0,0,0,1,0,1,0
+s58505074.txt,p10003019,Atelectasis|Pneumonia|Pneumothorax,0,1,0,0,1,1,0,0
+s59005604.txt,p10003019,Atelectasis|Pneumothorax,0,1,0,0,0,1,0,0
+s59339276.txt,p10003019,Pneumothorax|Consolidation|Edema,0,0,0,0,0,1,1,1
+s59607556.txt,p10003019,Pleural Effusion,0,0,0,1,0,0,0,0
+s59635047.txt,p10003019,Cardiomegaly|Pneumonia|Edema,0,0,1,0,1,0,0,1
+s59730608.txt,p10003019,Consolidation,0,0,0,0,0,0,1,0
+s59829602.txt,p10003019,Pneumonia,0,0,0,0,1,0,0,0
+s58630288.txt,p10003052,Pleural Effusion|Pneumothorax,0,0,0,1,0,1,0,0
+s52843603.txt,p10003255,Cardiomegaly|Consolidation|Edema,0,0,1,0,0,0,1,1
+s50536653.txt,p10003299,Cardiomegaly|Pleural Effusion|Pneumothorax|Edema,0,0,1,1,0,1,0,1
+s57344656.txt,p10003299,Cardiomegaly|Pleural Effusion|Pneumothorax|Consolidation|Edema,0,0,1,1,0,1,1,1
+s50100991.txt,p10003400,Pleural Effusion|Pneumothorax,0,0,0,1,0,1,0,0
+s50183258.txt,p10003400,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumothorax,0,1,1,1,0,1,0,0
+s50805197.txt,p10003400,Cardiomegaly|Pleural Effusion|Pneumothorax,0,0,1,1,0,1,0,0
+s51127691.txt,p10003400,Pneumothorax,0,0,0,0,0,1,0,0
+s51345654.txt,p10003400,Cardiomegaly|Pleural Effusion|Edema,0,0,1,1,0,0,0,1
+s51777274.txt,p10003400,No Finding,1,0,0,0,0,0,0,0
+s52181745.txt,p10003400,Pleural Effusion|Pneumothorax,0,0,0,1,0,1,0,0
+s52207536.txt,p10003400,Atelectasis|Cardiomegaly|Pleural Effusion,0,1,1,1,0,0,0,0
+s52437868.txt,p10003400,Cardiomegaly,0,0,1,0,0,0,0,0
+s52822559.txt,p10003400,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s52941169.txt,p10003400,Consolidation|Edema,0,0,0,0,0,0,1,1
+s53341253.txt,p10003400,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumothorax,0,1,1,1,0,1,0,0
+s53352321.txt,p10003400,Pleural Effusion,0,0,0,1,0,0,0,0
+s53661694.txt,p10003400,Atelectasis|Pleural Effusion|Pneumothorax,0,1,0,1,0,1,0,0
+s54050001.txt,p10003400,Pleural Effusion,0,0,0,1,0,0,0,0
+s54341551.txt,p10003400,No Finding,1,0,0,0,0,0,0,0
+s55177950.txt,p10003400,Atelectasis|Cardiomegaly|Pleural Effusion|Edema,0,1,1,1,0,0,0,1
+s55549081.txt,p10003400,Pleural Effusion|Edema,0,0,0,1,0,0,0,1
+s56185120.txt,p10003400,Cardiomegaly|Pleural Effusion|Pneumothorax,0,0,1,1,0,1,0,0
+s56466802.txt,p10003400,Cardiomegaly|Consolidation,0,0,1,0,0,0,1,0
+s56915166.txt,p10003400,Cardiomegaly|Pleural Effusion|Pneumothorax,0,0,1,1,0,1,0,0
+s57147097.txt,p10003400,Pleural Effusion,0,0,0,1,0,0,0,0
+s57607776.txt,p10003400,Pleural Effusion,0,0,0,1,0,0,0,0
+s58534470.txt,p10003400,Pleural Effusion|Consolidation|Edema,0,0,0,1,0,0,1,1
+s58633368.txt,p10003400,Pleural Effusion,0,0,0,1,0,0,0,0
+s58820563.txt,p10003400,Cardiomegaly|Pleural Effusion|Pneumothorax,0,0,1,1,0,1,0,0
+s58983613.txt,p10003400,Cardiomegaly|Pneumonia|Pneumothorax,0,0,1,0,1,1,0,0
+s59336915.txt,p10003400,Cardiomegaly,0,0,1,0,0,0,0,0
+s59172281.txt,p10003412,Pneumothorax,0,0,0,0,0,1,0,0
+s50084553.txt,p10003502,Atelectasis|Cardiomegaly|Pleural Effusion|Edema,0,1,1,1,0,0,0,1
+s51180958.txt,p10003502,Atelectasis|Cardiomegaly|Pleural Effusion,0,1,1,1,0,0,0,0
+s52139270.txt,p10003502,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumonia|Pneumothorax|Consolidation|Edema,0,1,1,1,1,1,1,1
+s52309364.txt,p10003502,Pleural Effusion|Edema,0,0,0,1,0,0,0,1
+s53282957.txt,p10003502,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumonia|Edema,0,1,1,1,1,0,0,1
+s53836463.txt,p10003502,Cardiomegaly|Pleural Effusion|Edema,0,0,1,1,0,0,0,1
+s57641661.txt,p10003502,Pleural Effusion|Edema,0,0,0,1,0,0,0,1
+s57812613.txt,p10003502,Cardiomegaly|Pleural Effusion|Pneumothorax,0,0,1,1,0,1,0,0
+s51371378.txt,p10003637,Cardiomegaly|Pneumonia|Edema,0,0,1,0,1,0,0,1
+s51461467.txt,p10003637,Pleural Effusion|Pneumonia|Pneumothorax,0,0,0,1,1,1,0,0
+s57024735.txt,p10003637,Cardiomegaly|Pleural Effusion|Pneumothorax,0,0,1,1,0,1,0,0
+s53245562.txt,p10003956,Cardiomegaly|Pneumothorax,0,0,1,0,0,1,0,0
+s52379321.txt,p10004235,Atelectasis|Pleural Effusion|Pneumothorax|Edema,0,1,0,1,0,1,0,1
+s52604377.txt,p10004235,No Finding,1,0,0,0,0,0,0,0
+s52962553.txt,p10004235,Pleural Effusion|Edema,0,0,0,1,0,0,0,1
+s54234360.txt,p10004235,Atelectasis|Pleural Effusion|Pneumonia,0,1,0,1,1,0,0,0
+s57318275.txt,p10004235,Atelectasis|Cardiomegaly|Edema,0,1,1,0,0,0,0,1
+s57921415.txt,p10004235,No Finding,1,0,0,0,0,0,0,0
+s58604118.txt,p10004235,Cardiomegaly|Pleural Effusion|Edema,0,0,1,1,0,0,0,1
+s59895508.txt,p10004235,No Finding,1,0,0,0,0,0,0,0
+s57662923.txt,p10004322,Atelectasis|Pneumonia|Pneumothorax|Edema,0,1,0,0,1,1,0,1
+s55439624.txt,p10004457,Atelectasis|Pleural Effusion|Pneumothorax,0,1,0,1,0,1,0,0
+s59238247.txt,p10004720,Cardiomegaly|Pneumonia|Edema,0,0,1,0,1,0,0,1
+s56644724.txt,p10004749,No Finding,1,0,0,0,0,0,0,0
+s50691028.txt,p10005001,Pneumothorax,0,0,0,0,0,1,0,0
+s53950795.txt,p10005024,Pleural Effusion|Pneumonia,0,0,0,1,1,0,0,0
+s59581256.txt,p10005024,Atelectasis|Pleural Effusion|Pneumonia,0,1,0,1,1,0,0,0
+s50611575.txt,p10005329,Consolidation,0,0,0,0,0,0,1,0
+s54510564.txt,p10005368,Pleural Effusion,0,0,0,1,0,0,0,0
+s56689183.txt,p10005368,Pneumothorax,0,0,0,0,0,1,0,0
+s57426090.txt,p10005368,Cardiomegaly|Pneumothorax,0,0,1,0,0,1,0,0
+s53170451.txt,p10005749,Atelectasis|Cardiomegaly|Pleural Effusion|Edema,0,1,1,1,0,0,0,1
+s54040624.txt,p10005749,Cardiomegaly|Pleural Effusion,0,0,1,1,0,0,0,0
+s54060141.txt,p10005749,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumothorax,0,1,1,1,0,1,0,0
+s57249718.txt,p10005749,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumothorax,0,1,1,1,0,1,0,0
+s58865310.txt,p10005749,Cardiomegaly|Pleural Effusion|Pneumonia,0,0,1,1,1,0,0,0
+s59735352.txt,p10005749,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumonia|Edema,0,1,1,1,1,0,0,1
+s58425702.txt,p10005858,No Finding,1,0,0,0,0,0,0,0
+s58867217.txt,p10005858,Consolidation,0,0,0,0,0,0,1,0
+s55665483.txt,p10005866,Atelectasis|Cardiomegaly|Pleural Effusion|Consolidation|Edema,0,1,1,1,0,0,1,1
+s56175428.txt,p10005866,Atelectasis|Pleural Effusion|Edema,0,1,0,1,0,0,0,1
+s57648366.txt,p10005866,Cardiomegaly|Pleural Effusion|Pneumonia,0,0,1,1,1,0,0,0
+s59391422.txt,p10005866,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s51026004.txt,p10006023,No Finding,1,0,0,0,0,0,0,0
+s50208870.txt,p10006431,Pneumonia|Edema,0,0,0,0,1,0,0,1
+s54868252.txt,p10006431,Cardiomegaly,0,0,1,0,0,0,0,0
+s57608640.txt,p10006457,Consolidation,0,0,0,0,0,0,1,0
+s58626380.txt,p10006457,Atelectasis|Pneumothorax,0,1,0,0,0,1,0,0
+s54247344.txt,p10006501,Pneumothorax,0,0,0,0,0,1,0,0
+s58830039.txt,p10006692,Cardiomegaly,0,0,1,0,0,0,0,0
+s54462409.txt,p10007058,No Finding,1,0,0,0,0,0,0,0
+s56744764.txt,p10007058,Edema,0,0,0,0,0,0,0,1
+s56085843.txt,p10007134,No Finding,1,0,0,0,0,0,0,0
+s59442660.txt,p10007326,Pneumonia|Pneumothorax,0,0,0,0,1,1,0,0
+s54054513.txt,p10007795,Cardiomegaly|Pleural Effusion|Edema,0,0,1,1,0,0,0,1
+s54317369.txt,p10007795,Atelectasis|Cardiomegaly|Pleural Effusion,0,1,1,1,0,0,0,0
+s54492585.txt,p10007795,Pleural Effusion,0,0,0,1,0,0,0,0
+s54581957.txt,p10007795,Atelectasis|Consolidation,0,1,0,0,0,0,1,0
+s56375093.txt,p10007795,Atelectasis|Pleural Effusion|Pneumothorax,0,1,0,1,0,1,0,0
+s57491780.txt,p10007795,Atelectasis,0,1,0,0,0,0,0,0
+s57677975.txt,p10007795,Atelectasis|Cardiomegaly|Pneumothorax,0,1,1,0,0,1,0,0
+s58754452.txt,p10007795,Atelectasis|Cardiomegaly|Pleural Effusion|Edema,0,1,1,1,0,0,0,1
+s53949165.txt,p10007920,No Finding,1,0,0,0,0,0,0,0
+s57313606.txt,p10007920,Pneumonia|Pneumothorax,0,0,0,0,1,1,0,0
+s58162456.txt,p10007920,Pleural Effusion,0,0,0,1,0,0,0,0
+s54272065.txt,p10007928,No Finding,1,0,0,0,0,0,0,0
+s55780044.txt,p10007928,Pleural Effusion|Pneumonia|Edema,0,0,0,1,1,0,0,1
+s58119840.txt,p10007928,Pneumonia,0,0,0,0,1,0,0,0
+s59796203.txt,p10007928,Cardiomegaly|Pneumonia,0,0,1,0,1,0,0,0
+s53140416.txt,p10008064,Consolidation|Edema,0,0,0,0,0,0,1,1
+s53817986.txt,p10008179,Edema,0,0,0,0,0,0,0,1
+s50053244.txt,p10008304,Edema,0,0,0,0,0,0,0,1
+s52686646.txt,p10008304,Pleural Effusion|Pneumothorax,0,0,0,1,0,1,0,0
+s54180175.txt,p10008493,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s51161169.txt,p10008816,Cardiomegaly|Pneumothorax|Consolidation,0,0,1,0,0,1,1,0
+s57984574.txt,p10008816,No Finding,1,0,0,0,0,0,0,0
+s52321259.txt,p10008922,No Finding,1,0,0,0,0,0,0,0
+s54394630.txt,p10009049,Atelectasis|Cardiomegaly|Pleural Effusion,0,1,1,1,0,0,0,0
+s54850191.txt,p10009049,Cardiomegaly|Pleural Effusion|Consolidation,0,0,1,1,0,0,1,0
+s55602594.txt,p10009049,Cardiomegaly|Pleural Effusion|Pneumonia,0,0,1,1,1,0,0,0
+s57157809.txt,p10009049,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumonia|Consolidation,0,1,1,1,1,0,1,0
+s58922574.txt,p10009049,Pleural Effusion|Pneumonia,0,0,0,1,1,0,0,0
+s57438242.txt,p10009614,Pleural Effusion|Pneumothorax,0,0,0,1,0,1,0,0
+s50055231.txt,p10010150,Cardiomegaly|Pleural Effusion,0,0,1,1,0,0,0,0
+s50799795.txt,p10010150,Consolidation,0,0,0,0,0,0,1,0
+s51428987.txt,p10010231,Cardiomegaly,0,0,1,0,0,0,0,0
+s55204578.txt,p10010231,Pneumonia,0,0,0,0,1,0,0,0
+s57916297.txt,p10010231,No Finding,1,0,0,0,0,0,0,0
+s51434626.txt,p10010253,Pleural Effusion|Pneumothorax|Consolidation|Edema,0,0,0,1,0,1,1,1
+s56908581.txt,p10010440,Atelectasis|Pneumonia,0,1,0,0,1,0,0,0
+s57403810.txt,p10010440,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s57693229.txt,p10010440,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumothorax,0,1,1,1,0,1,0,0
+s51674194.txt,p10010471,Atelectasis|Cardiomegaly|Pleural Effusion|Edema,0,1,1,1,0,0,0,1
+s59553780.txt,p10010471,Atelectasis|Cardiomegaly|Pleural Effusion|Consolidation|Edema,0,1,1,1,0,0,1,1
+s55235680.txt,p10010635,Pneumothorax,0,0,0,0,0,1,0,0
+s55178098.txt,p10010638,Pleural Effusion,0,0,0,1,0,0,0,0
+s51163513.txt,p10010867,Cardiomegaly|Pleural Effusion,0,0,1,1,0,0,0,0
+s51308353.txt,p10010867,Pleural Effusion|Pneumothorax,0,0,0,1,0,1,0,0
+s51983395.txt,p10010867,Atelectasis|Pleural Effusion|Consolidation,0,1,0,1,0,0,1,0
+s52247560.txt,p10010867,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s52872599.txt,p10010867,Cardiomegaly|Pleural Effusion|Consolidation|Edema,0,0,1,1,0,0,1,1
+s52975216.txt,p10010867,Atelectasis|Cardiomegaly|Pleural Effusion|Consolidation|Edema,0,1,1,1,0,0,1,1
+s53658667.txt,p10010867,Atelectasis|Pleural Effusion|Pneumothorax,0,1,0,1,0,1,0,0
+s55614428.txt,p10010867,Atelectasis|Cardiomegaly|Pleural Effusion|Consolidation,0,1,1,1,0,0,1,0
+s55759470.txt,p10010867,Atelectasis|Cardiomegaly|Pleural Effusion,0,1,1,1,0,0,0,0
+s56416280.txt,p10010867,Atelectasis|Pneumothorax,0,1,0,0,0,1,0,0
+s56754952.txt,p10010867,Pleural Effusion|Consolidation,0,0,0,1,0,0,1,0
+s57260480.txt,p10010867,Pleural Effusion,0,0,0,1,0,0,0,0
+s57317515.txt,p10010867,Pleural Effusion|Pneumothorax,0,0,0,1,0,1,0,0
+s57662143.txt,p10010867,Cardiomegaly|Pneumothorax,0,0,1,0,0,1,0,0
+s57907439.txt,p10010867,Atelectasis|Pleural Effusion|Pneumothorax|Edema,0,1,0,1,0,1,0,1
+s58830152.txt,p10010867,Pleural Effusion|Pneumonia|Pneumothorax|Consolidation|Edema,0,0,0,1,1,1,1,1
+s59036254.txt,p10010867,Cardiomegaly|Pleural Effusion|Pneumothorax,0,0,1,1,0,1,0,0
+s59155163.txt,p10010867,Atelectasis|Cardiomegaly|Pleural Effusion,0,1,1,1,0,0,0,0
+s59325322.txt,p10010867,Pleural Effusion|Pneumothorax,0,0,0,1,0,1,0,0
+s59851295.txt,p10010867,Atelectasis|Cardiomegaly|Pleural Effusion,0,1,1,1,0,0,0,0
+s52827646.txt,p10010920,Pneumothorax,0,0,0,0,0,1,0,0
+s54061694.txt,p10010961,Atelectasis|Pneumothorax|Consolidation,0,1,0,0,0,1,1,0
+s56036651.txt,p10011126,Cardiomegaly|Pneumothorax,0,0,1,0,0,1,0,0
+s58239923.txt,p10011126,Consolidation,0,0,0,0,0,0,1,0
+s52630873.txt,p10011169,No Finding,1,0,0,0,0,0,0,0
+s51117454.txt,p10011365,No Finding,1,0,0,0,0,0,0,0
+s51830718.txt,p10011365,Atelectasis,0,1,0,0,0,0,0,0
+s53459647.txt,p10011365,Pleural Effusion|Pneumonia|Pneumothorax|Consolidation|Edema,0,0,0,1,1,1,1,1
+s53869555.txt,p10011365,Pleural Effusion,0,0,0,1,0,0,0,0
+s54847293.txt,p10011365,Edema,0,0,0,0,0,0,0,1
+s56594284.txt,p10011365,Cardiomegaly,0,0,1,0,0,0,0,0
+s59058078.txt,p10011365,No Finding,1,0,0,0,0,0,0,0
+s59373787.txt,p10011365,Cardiomegaly|Pleural Effusion|Pneumonia|Edema,0,0,1,1,1,0,0,1
+s59571128.txt,p10011365,Atelectasis|Cardiomegaly|Pneumonia,0,1,1,0,1,0,0,0
+s59469147.txt,p10011466,Pleural Effusion|Pneumothorax,0,0,0,1,0,1,0,0
+s50435883.txt,p10011607,Cardiomegaly|Pneumothorax,0,0,1,0,0,1,0,0
+s52421847.txt,p10011607,Pneumonia|Consolidation,0,0,0,0,1,0,1,0
+s53604298.txt,p10011607,Consolidation,0,0,0,0,0,0,1,0
+s53989086.txt,p10011607,No Finding,1,0,0,0,0,0,0,0
+s54323055.txt,p10011607,Cardiomegaly|Consolidation,0,0,1,0,0,0,1,0
+s54471901.txt,p10011607,Cardiomegaly|Pleural Effusion,0,0,1,1,0,0,0,0
+s55814288.txt,p10011607,Consolidation,0,0,0,0,0,0,1,0
+s55850863.txt,p10011607,Pneumonia,0,0,0,0,1,0,0,0
+s56807530.txt,p10011607,Cardiomegaly|Pneumothorax,0,0,1,0,0,1,0,0
+s58253009.txt,p10011607,No Finding,1,0,0,0,0,0,0,0
+s59358789.txt,p10011607,Pneumothorax,0,0,0,0,0,1,0,0
+s50139454.txt,p10011668,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s50539024.txt,p10011668,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s52123095.txt,p10011668,Cardiomegaly|Pneumonia|Edema,0,0,1,0,1,0,0,1
+s54026364.txt,p10011668,Consolidation,0,0,0,0,0,0,1,0
+s56511682.txt,p10011668,Pneumonia|Consolidation,0,0,0,0,1,0,1,0
+s57069032.txt,p10011668,Cardiomegaly|Pleural Effusion|Edema,0,0,1,1,0,0,0,1
+s57317530.txt,p10011668,Cardiomegaly,0,0,1,0,0,0,0,0
+s56044033.txt,p10011855,Pneumonia,0,0,0,0,1,0,0,0
+s50109051.txt,p10011938,Atelectasis|Pleural Effusion|Pneumonia|Pneumothorax|Consolidation|Edema,0,1,0,1,1,1,1,1
+s51895247.txt,p10011938,Atelectasis|Cardiomegaly|Pleural Effusion|Edema,0,1,1,1,0,0,0,1
+s51900145.txt,p10011938,Atelectasis|Cardiomegaly|Pneumonia|Consolidation|Edema,0,1,1,0,1,0,1,1
+s54202121.txt,p10011938,Cardiomegaly|Pneumothorax|Consolidation|Edema,0,0,1,0,0,1,1,1
+s54231050.txt,p10011938,Atelectasis,0,1,0,0,0,0,0,0
+s55823081.txt,p10011938,Atelectasis|Cardiomegaly|Edema,0,1,1,0,0,0,0,1
+s56362279.txt,p10011938,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s50349409.txt,p10012261,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s50448244.txt,p10012261,No Finding,1,0,0,0,0,0,0,0
+s51684817.txt,p10012261,No Finding,1,0,0,0,0,0,0,0
+s52477504.txt,p10012261,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s52687681.txt,p10012261,Pneumonia,0,0,0,0,1,0,0,0
+s53685030.txt,p10012261,Atelectasis|Pneumothorax,0,1,0,0,0,1,0,0
+s53728467.txt,p10012261,Atelectasis|Pneumonia|Consolidation,0,1,0,0,1,0,1,0
+s54843782.txt,p10012261,Atelectasis,0,1,0,0,0,0,0,0
+s55038624.txt,p10012261,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s55299155.txt,p10012261,Pneumonia,0,0,0,0,1,0,0,0
+s55316892.txt,p10012261,Atelectasis|Cardiomegaly,0,1,1,0,0,0,0,0
+s55346787.txt,p10012261,Atelectasis|Cardiomegaly,0,1,1,0,0,0,0,0
+s55883299.txt,p10012261,Pneumonia|Consolidation,0,0,0,0,1,0,1,0
+s56872341.txt,p10012261,Atelectasis|Cardiomegaly|Pneumonia|Edema,0,1,1,0,1,0,0,1
+s56984106.txt,p10012261,Pleural Effusion,0,0,0,1,0,0,0,0
+s57578434.txt,p10012261,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s58270659.txt,p10012261,Atelectasis|Pleural Effusion|Pneumonia,0,1,0,1,1,0,0,0
+s50854114.txt,p10012292,Cardiomegaly|Pneumonia,0,0,1,0,1,0,0,0
+s51979091.txt,p10012292,Atelectasis|Pleural Effusion|Pneumonia|Consolidation|Edema,0,1,0,1,1,0,1,1
+s52412975.txt,p10012292,Cardiomegaly|Pneumonia,0,0,1,0,1,0,0,0
+s52500232.txt,p10012292,Pleural Effusion|Pneumonia|Edema,0,0,0,1,1,0,0,1
+s53627836.txt,p10012292,Cardiomegaly|Pneumonia,0,0,1,0,1,0,0,0
+s54533628.txt,p10012292,Pleural Effusion|Pneumonia|Edema,0,0,0,1,1,0,0,1
+s57676120.txt,p10012292,Cardiomegaly|Consolidation|Edema,0,0,1,0,0,0,1,1
+s59162519.txt,p10012292,Edema,0,0,0,0,0,0,0,1
+s52832573.txt,p10012438,No Finding,1,0,0,0,0,0,0,0
+s55812956.txt,p10012498,Pneumonia|Consolidation,0,0,0,0,1,0,1,0
+s56578283.txt,p10012569,No Finding,1,0,0,0,0,0,0,0
+s51169270.txt,p10012768,Atelectasis,0,1,0,0,0,0,0,0
+s55247703.txt,p10012768,Atelectasis|Pneumonia|Edema,0,1,0,0,1,0,0,1
+s58861095.txt,p10012768,Pleural Effusion,0,0,0,1,0,0,0,0
+s50200959.txt,p10012853,Pleural Effusion|Edema,0,0,0,1,0,0,0,1
+s53243235.txt,p10012853,Pleural Effusion|Pneumothorax|Consolidation|Edema,0,0,0,1,0,1,1,1
+s58181999.txt,p10012853,Cardiomegaly|Pleural Effusion|Edema,0,0,1,1,0,0,0,1
+s58569460.txt,p10012853,Atelectasis|Consolidation|Edema,0,1,0,0,0,0,1,1
+s59648767.txt,p10013094,Consolidation,0,0,0,0,0,0,1,0
+s51191158.txt,p10013324,Atelectasis|Cardiomegaly|Pneumothorax,0,1,1,0,0,1,0,0
+s54857277.txt,p10013502,Atelectasis|Cardiomegaly|Consolidation,0,1,1,0,0,0,1,0
+s59527128.txt,p10013502,Cardiomegaly,0,0,1,0,0,0,0,0
+s51292378.txt,p10013569,Atelectasis|Cardiomegaly|Pleural Effusion,0,1,1,1,0,0,0,0
+s52553082.txt,p10013569,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumonia|Edema,0,1,1,1,1,0,0,1
+s53365004.txt,p10013569,Edema,0,0,0,0,0,0,0,1
+s53407104.txt,p10013569,Atelectasis|Cardiomegaly|Pleural Effusion|Consolidation|Edema,0,1,1,1,0,0,1,1
+s53680741.txt,p10013569,Cardiomegaly|Pleural Effusion|Edema,0,0,1,1,0,0,0,1
+s53790772.txt,p10013569,Atelectasis|Cardiomegaly|Pleural Effusion|Edema,0,1,1,1,0,0,0,1
+s54308488.txt,p10013569,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s55169196.txt,p10013569,Atelectasis|Cardiomegaly|Pleural Effusion|Edema,0,1,1,1,0,0,0,1
+s56120093.txt,p10013569,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumothorax|Edema,0,1,1,1,0,1,0,1
+s56197670.txt,p10013569,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s57151026.txt,p10013569,Atelectasis|Cardiomegaly|Pleural Effusion|Consolidation,0,1,1,1,0,0,1,0
+s57416395.txt,p10013569,Pneumothorax|Edema,0,0,0,0,0,1,0,1
+s57874790.txt,p10013569,Cardiomegaly|Pleural Effusion|Edema,0,0,1,1,0,0,0,1
+s59650630.txt,p10013569,No Finding,1,0,0,0,0,0,0,0
+s51129178.txt,p10013643,No Finding,1,0,0,0,0,0,0,0
+s52222477.txt,p10013643,Pneumothorax,0,0,0,0,0,1,0,0
+s52512677.txt,p10013643,Atelectasis|Pleural Effusion|Pneumothorax,0,1,0,1,0,1,0,0
+s53230061.txt,p10013643,Pneumothorax,0,0,0,0,0,1,0,0
+s53841005.txt,p10013643,Cardiomegaly|Pleural Effusion|Pneumonia|Consolidation|Edema,0,0,1,1,1,0,1,1
+s55641691.txt,p10013643,Atelectasis|Pleural Effusion|Edema,0,1,0,1,0,0,0,1
+s58230749.txt,p10013643,Cardiomegaly,0,0,1,0,0,0,0,0
+s58785837.txt,p10013643,Pleural Effusion|Pneumothorax|Consolidation|Edema,0,0,0,1,0,1,1,1
+s50073683.txt,p10013653,Atelectasis|Cardiomegaly|Pleural Effusion,0,1,1,1,0,0,0,0
+s50370108.txt,p10013653,Pneumonia|Pneumothorax|Consolidation|Edema,0,0,0,0,1,1,1,1
+s51083432.txt,p10013653,No Finding,1,0,0,0,0,0,0,0
+s53212555.txt,p10013653,Pleural Effusion,0,0,0,1,0,0,0,0
+s53383585.txt,p10013653,Pneumonia|Edema,0,0,0,0,1,0,0,1
+s53718217.txt,p10013653,Cardiomegaly|Pleural Effusion|Pneumothorax|Edema,0,0,1,1,0,1,0,1
+s54266127.txt,p10013653,Pleural Effusion|Pneumonia|Pneumothorax,0,0,0,1,1,1,0,0
+s55563991.txt,p10013653,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumonia|Edema,0,1,1,1,1,0,0,1
+s56172765.txt,p10013653,Cardiomegaly|Pneumothorax|Edema,0,0,1,0,0,1,0,1
+s56765058.txt,p10013653,Pleural Effusion|Pneumothorax,0,0,0,1,0,1,0,0
+s57456069.txt,p10013653,Atelectasis,0,1,0,0,0,0,0,0
+s58257691.txt,p10013653,Pleural Effusion,0,0,0,1,0,0,0,0
+s59887647.txt,p10013653,Pleural Effusion|Edema,0,0,0,1,0,0,0,1
+s56834987.txt,p10013866,No Finding,1,0,0,0,0,0,0,0
+s51417320.txt,p10014078,Atelectasis|Cardiomegaly,0,1,1,0,0,0,0,0
+s58004016.txt,p10014078,No Finding,1,0,0,0,0,0,0,0
+s50151008.txt,p10014309,No Finding,1,0,0,0,0,0,0,0
+s55291283.txt,p10014354,No Finding,1,0,0,0,0,0,0,0
+s56187971.txt,p10014354,No Finding,1,0,0,0,0,0,0,0
+s59818531.txt,p10014354,No Finding,1,0,0,0,0,0,0,0
+s55557761.txt,p10014378,Cardiomegaly|Pleural Effusion|Pneumothorax,0,0,1,1,0,1,0,0
+s59161733.txt,p10014532,Consolidation,0,0,0,0,0,0,1,0
+s59603171.txt,p10014577,No Finding,1,0,0,0,0,0,0,0
+s50713146.txt,p10014610,Cardiomegaly,0,0,1,0,0,0,0,0
+s52971110.txt,p10014610,Pleural Effusion|Pneumonia|Pneumothorax,0,0,0,1,1,1,0,0
+s54251554.txt,p10014610,Cardiomegaly|Pleural Effusion,0,0,1,1,0,0,0,0
+s54258223.txt,p10014610,Atelectasis|Edema,0,1,0,0,0,0,0,1
+s54331589.txt,p10014610,Cardiomegaly|Pleural Effusion|Pneumothorax|Edema,0,0,1,1,0,1,0,1
+s54475753.txt,p10014610,Pneumothorax,0,0,0,0,0,1,0,0
+s54899084.txt,p10014610,Cardiomegaly|Pleural Effusion,0,0,1,1,0,0,0,0
+s55477990.txt,p10014610,Cardiomegaly|Pneumothorax,0,0,1,0,0,1,0,0
+s55636823.txt,p10014610,No Finding,1,0,0,0,0,0,0,0
+s55886777.txt,p10014610,Pleural Effusion,0,0,0,1,0,0,0,0
+s57344954.txt,p10014610,Cardiomegaly|Pleural Effusion,0,0,1,1,0,0,0,0
+s59565048.txt,p10014610,No Finding,1,0,0,0,0,0,0,0
+s51377970.txt,p10014729,Pleural Effusion|Pneumonia|Edema,0,0,0,1,1,0,0,1
+s52149569.txt,p10014729,Atelectasis|Pneumothorax|Edema,0,1,0,0,0,1,0,1
+s52359357.txt,p10014729,Atelectasis|Pleural Effusion|Pneumothorax|Consolidation,0,1,0,1,0,1,1,0
+s52620675.txt,p10014729,Pleural Effusion,0,0,0,1,0,0,0,0
+s53646444.txt,p10014729,Pleural Effusion|Pneumothorax,0,0,0,1,0,1,0,0
+s54116558.txt,p10014729,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s54258430.txt,p10014729,No Finding,1,0,0,0,0,0,0,0
+s55397704.txt,p10014729,Cardiomegaly|Pleural Effusion,0,0,1,1,0,0,0,0
+s56014224.txt,p10014729,Pleural Effusion|Pneumothorax|Consolidation,0,0,0,1,0,1,1,0
+s56982861.txt,p10014729,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s54784650.txt,p10014756,No Finding,1,0,0,0,0,0,0,0
+s51940916.txt,p10014762,Pneumonia|Consolidation,0,0,0,0,1,0,1,0
+s55749084.txt,p10014765,Pneumonia,0,0,0,0,1,0,0,0
+s57515592.txt,p10014765,Cardiomegaly|Pneumothorax,0,0,1,0,0,1,0,0
+s52050610.txt,p10014967,Cardiomegaly|Pleural Effusion|Pneumonia,0,0,1,1,1,0,0,0
+s52591138.txt,p10014967,Consolidation,0,0,0,0,0,0,1,0
+s50292012.txt,p10015048,Atelectasis|Pleural Effusion|Pneumothorax,0,1,0,1,0,1,0,0
+s50474111.txt,p10015048,Cardiomegaly|Pneumonia,0,0,1,0,1,0,0,0
+s53719691.txt,p10015048,Atelectasis|Cardiomegaly|Pneumothorax,0,1,1,0,0,1,0,0
+s57144495.txt,p10015048,Atelectasis|Pneumonia|Pneumothorax,0,1,0,0,1,1,0,0
+s57847000.txt,p10015048,Cardiomegaly|Pneumonia|Consolidation,0,0,1,0,1,0,1,0
+s58698953.txt,p10015048,Cardiomegaly|Pleural Effusion|Pneumonia,0,0,1,1,1,0,0,0
+s54690616.txt,p10015129,Cardiomegaly|Pleural Effusion|Pneumonia|Pneumothorax,0,0,1,1,1,1,0,0
+s54747140.txt,p10015129,Pleural Effusion|Pneumothorax,0,0,0,1,0,1,0,0
+s57452970.txt,p10015129,No Finding,1,0,0,0,0,0,0,0
+s56985410.txt,p10015272,Cardiomegaly|Pleural Effusion|Edema,0,0,1,1,0,0,0,1
+s57448287.txt,p10015487,Atelectasis|Pneumonia,0,1,0,0,1,0,0,0
+s58028693.txt,p10015487,Atelectasis|Pneumonia|Pneumothorax,0,1,0,0,1,1,0,0
+s53321493.txt,p10015701,Edema,0,0,0,0,0,0,0,1
+s57879183.txt,p10015725,Pneumothorax,0,0,0,0,0,1,0,0
+s52335725.txt,p10015785,Pleural Effusion|Pneumothorax,0,0,0,1,0,1,0,0
+s59095926.txt,p10015785,Pneumonia,0,0,0,0,1,0,0,0
+s52393801.txt,p10015824,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s51904202.txt,p10015860,Pneumonia,0,0,0,0,1,0,0,0
+s52909824.txt,p10015860,Pneumonia,0,0,0,0,1,0,0,0
+s54563930.txt,p10015860,Atelectasis|Pleural Effusion|Pneumonia,0,1,0,1,1,0,0,0
+s54943790.txt,p10015860,Pleural Effusion|Pneumonia|Pneumothorax,0,0,0,1,1,1,0,0
+s55513261.txt,p10015860,Cardiomegaly|Pleural Effusion,0,0,1,1,0,0,0,0
+s50912119.txt,p10015931,Atelectasis|Cardiomegaly|Edema,0,1,1,0,0,0,0,1
+s51155735.txt,p10015931,Atelectasis|Cardiomegaly|Pleural Effusion,0,1,1,1,0,0,0,0
+s52062743.txt,p10015931,No Finding,1,0,0,0,0,0,0,0
+s52545203.txt,p10015931,Atelectasis|Cardiomegaly|Edema,0,1,1,0,0,0,0,1
+s53883707.txt,p10015931,Pleural Effusion|Edema,0,0,0,1,0,0,0,1
+s55684791.txt,p10015931,Cardiomegaly|Pleural Effusion|Pneumothorax|Edema,0,0,1,1,0,1,0,1
+s55693693.txt,p10015931,Cardiomegaly|Pleural Effusion|Edema,0,0,1,1,0,0,0,1
+s56053701.txt,p10015931,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s57552246.txt,p10015931,Pleural Effusion|Pneumonia,0,0,0,1,1,0,0,0
+s57792054.txt,p10015931,Atelectasis|Pleural Effusion|Pneumonia|Consolidation|Edema,0,1,0,1,1,0,1,1
+s57962525.txt,p10015931,Cardiomegaly|Pleural Effusion|Edema,0,0,1,1,0,0,0,1
+s58306154.txt,p10015931,Atelectasis|Cardiomegaly|Pleural Effusion|Consolidation,0,1,1,1,0,0,1,0
+s58488942.txt,p10015931,Cardiomegaly|Pleural Effusion|Edema,0,0,1,1,0,0,0,1
+s50755440.txt,p10016084,No Finding,1,0,0,0,0,0,0,0
+s51872870.txt,p10016084,Pneumonia|Edema,0,0,0,0,1,0,0,1
+s51553809.txt,p10016367,Atelectasis|Pleural Effusion|Pneumothorax|Edema,0,1,0,1,0,1,0,1
+s58382768.txt,p10016367,Consolidation,0,0,0,0,0,0,1,0
+s50273193.txt,p10016742,Atelectasis|Pneumothorax,0,1,0,0,0,1,0,0
+s50285724.txt,p10016742,Atelectasis|Cardiomegaly|Pneumonia|Consolidation,0,1,1,0,1,0,1,0
+s50500001.txt,p10016742,Pleural Effusion|Edema,0,0,0,1,0,0,0,1
+s51823916.txt,p10016742,No Finding,1,0,0,0,0,0,0,0
+s51877206.txt,p10016742,Atelectasis|Pleural Effusion|Pneumonia,0,1,0,1,1,0,0,0
+s54544825.txt,p10016742,Atelectasis|Pleural Effusion|Pneumonia,0,1,0,1,1,0,0,0
+s56815951.txt,p10016742,Atelectasis|Cardiomegaly,0,1,1,0,0,0,0,0
+s57347343.txt,p10016742,Atelectasis,0,1,0,0,0,0,0,0
+s58242013.txt,p10016742,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s58718226.txt,p10016742,Cardiomegaly|Pleural Effusion|Pneumonia|Consolidation,0,0,1,1,1,0,1,0
+s59397266.txt,p10016742,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumonia|Consolidation,0,1,1,1,1,0,1,0
+s55346911.txt,p10016810,Atelectasis|Pleural Effusion|Edema,0,1,0,1,0,0,0,1
+s56708241.txt,p10016832,Pneumothorax,0,0,0,0,0,1,0,0
+s58618810.txt,p10017492,Edema,0,0,0,0,0,0,0,1
+s50992546.txt,p10017972,No Finding,1,0,0,0,0,0,0,0
+s50531538.txt,p10018052,Pneumothorax,0,0,0,0,0,1,0,0
+s52632768.txt,p10018078,Pleural Effusion|Pneumonia|Pneumothorax,0,0,0,1,1,1,0,0
+s50515796.txt,p10018081,Atelectasis|Pneumonia|Edema,0,1,0,0,1,0,0,1
+s50772344.txt,p10018081,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumonia|Consolidation|Edema,0,1,1,1,1,0,1,1
+s51219318.txt,p10018081,Atelectasis|Cardiomegaly,0,1,1,0,0,0,0,0
+s51331930.txt,p10018081,Atelectasis|Pleural Effusion|Edema,0,1,0,1,0,0,0,1
+s51961926.txt,p10018081,Atelectasis|Pleural Effusion|Edema,0,1,0,1,0,0,0,1
+s52015079.txt,p10018081,Atelectasis,0,1,0,0,0,0,0,0
+s52153377.txt,p10018081,No Finding,1,0,0,0,0,0,0,0
+s52241060.txt,p10018081,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumonia|Pneumothorax|Consolidation|Edema,0,1,1,1,1,1,1,1
+s52355329.txt,p10018081,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumonia|Consolidation|Edema,0,1,1,1,1,0,1,1
+s52361916.txt,p10018081,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s53134267.txt,p10018081,Cardiomegaly,0,0,1,0,0,0,0,0
+s53262913.txt,p10018081,Cardiomegaly|Pleural Effusion,0,0,1,1,0,0,0,0
+s53356842.txt,p10018081,Pleural Effusion|Consolidation|Edema,0,0,0,1,0,0,1,1
+s53437264.txt,p10018081,Atelectasis,0,1,0,0,0,0,0,0
+s54070678.txt,p10018081,Atelectasis|Edema,0,1,0,0,0,0,0,1
+s55281127.txt,p10018081,Atelectasis|Pleural Effusion|Pneumonia|Edema,0,1,0,1,1,0,0,1
+s55297211.txt,p10018081,Atelectasis|Cardiomegaly|Pleural Effusion|Edema,0,1,1,1,0,0,0,1
+s55554731.txt,p10018081,Atelectasis|Pleural Effusion|Pneumonia,0,1,0,1,1,0,0,0
+s55605617.txt,p10018081,Atelectasis|Pneumonia,0,1,0,0,1,0,0,0
+s55735807.txt,p10018081,Pleural Effusion|Consolidation|Edema,0,0,0,1,0,0,1,1
+s55764579.txt,p10018081,Atelectasis|Cardiomegaly,0,1,1,0,0,0,0,0
+s55879987.txt,p10018081,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s55937781.txt,p10018081,Pleural Effusion|Edema,0,0,0,1,0,0,0,1
+s56684174.txt,p10018081,Atelectasis|Cardiomegaly|Edema,0,1,1,0,0,0,0,1
+s56762822.txt,p10018081,Atelectasis|Pleural Effusion|Consolidation,0,1,0,1,0,0,1,0
+s56942504.txt,p10018081,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumonia|Edema,0,1,1,1,1,0,0,1
+s57481090.txt,p10018081,Atelectasis|Cardiomegaly|Pleural Effusion,0,1,1,1,0,0,0,0
+s57486705.txt,p10018081,Atelectasis|Cardiomegaly|Pleural Effusion,0,1,1,1,0,0,0,0
+s57539618.txt,p10018081,Pneumothorax|Edema,0,0,0,0,0,1,0,1
+s57747740.txt,p10018081,Atelectasis|Pleural Effusion|Pneumonia|Edema,0,1,0,1,1,0,0,1
+s58175153.txt,p10018081,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumothorax,0,1,1,1,0,1,0,0
+s58479559.txt,p10018081,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumonia|Pneumothorax,0,1,1,1,1,1,0,0
+s58536937.txt,p10018081,Edema,0,0,0,0,0,0,0,1
+s59239908.txt,p10018081,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumonia|Edema,0,1,1,1,1,0,0,1
+s59593112.txt,p10018081,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumonia|Edema,0,1,1,1,1,0,0,1
+s59614225.txt,p10018081,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumonia|Consolidation|Edema,0,1,1,1,1,0,1,1
+s56519856.txt,p10018169,Pneumothorax,0,0,0,0,0,1,0,0
+s51700871.txt,p10018205,Pneumonia|Pneumothorax,0,0,0,0,1,1,0,0
+s55652312.txt,p10018205,No Finding,1,0,0,0,0,0,0,0
+s58629645.txt,p10018205,No Finding,1,0,0,0,0,0,0,0
+s58430738.txt,p10018286,Pneumonia|Consolidation,0,0,0,0,1,0,1,0
+s51710812.txt,p10018328,Atelectasis|Cardiomegaly|Pleural Effusion,0,1,1,1,0,0,0,0
+s53637154.txt,p10018328,Cardiomegaly|Pleural Effusion|Edema,0,0,1,1,0,0,0,1
+s53995593.txt,p10018328,Atelectasis|Cardiomegaly|Pleural Effusion,0,1,1,1,0,0,0,0
+s50526690.txt,p10018423,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumothorax,0,1,1,1,0,1,0,0
+s51545426.txt,p10018423,Cardiomegaly|Pleural Effusion|Pneumothorax|Edema,0,0,1,1,0,1,0,1
+s58065422.txt,p10018423,Atelectasis|Cardiomegaly|Pneumothorax,0,1,1,0,0,1,0,0
+s58815716.txt,p10018423,Pneumonia|Consolidation,0,0,0,0,1,0,1,0
+s50386655.txt,p10018684,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s56085991.txt,p10018712,Pneumothorax|Edema,0,0,0,0,0,1,0,1
+s58860169.txt,p10018712,Pleural Effusion|Pneumonia,0,0,0,1,1,0,0,0
+s55566664.txt,p10018852,Pleural Effusion|Pneumonia|Consolidation,0,0,0,1,1,0,1,0
+s53307223.txt,p10019003,Cardiomegaly|Pleural Effusion|Pneumonia|Edema,0,0,1,1,1,0,0,1
+s53986244.txt,p10019003,No Finding,1,0,0,0,0,0,0,0
+s54681791.txt,p10019003,Cardiomegaly,0,0,1,0,0,0,0,0
+s54798105.txt,p10019003,Atelectasis|Pleural Effusion|Pneumothorax|Edema,0,1,0,1,0,1,0,1
+s55125544.txt,p10019003,Atelectasis|Edema,0,1,0,0,0,0,0,1
+s56297761.txt,p10019003,Atelectasis,0,1,0,0,0,0,0,0
+s56482942.txt,p10019003,Atelectasis|Pneumonia,0,1,0,0,1,0,0,0
+s57733086.txt,p10019003,Atelectasis|Cardiomegaly|Edema,0,1,1,0,0,0,0,1
+s58240524.txt,p10019003,Atelectasis|Pleural Effusion|Consolidation|Edema,0,1,0,1,0,0,1,1
+s59157833.txt,p10019003,Pleural Effusion|Consolidation|Edema,0,0,0,1,0,0,1,1
+s59673093.txt,p10019061,Atelectasis|Pneumonia|Pneumothorax|Consolidation,0,1,0,0,1,1,1,0
+s51235439.txt,p10019096,Pleural Effusion,0,0,0,1,0,0,0,0
+s51588701.txt,p10019108,No Finding,1,0,0,0,0,0,0,0
+s50113144.txt,p10019385,Atelectasis|Pleural Effusion|Pneumonia|Pneumothorax,0,1,0,1,1,1,0,0
+s50273827.txt,p10019385,Pleural Effusion,0,0,0,1,0,0,0,0
+s51044398.txt,p10019385,Pleural Effusion,0,0,0,1,0,0,0,0
+s55200571.txt,p10019385,Atelectasis|Cardiomegaly|Pleural Effusion,0,1,1,1,0,0,0,0
+s52418577.txt,p10019517,Consolidation,0,0,0,0,0,0,1,0
+s56621765.txt,p10019517,Pleural Effusion,0,0,0,1,0,0,0,0
+s52687854.txt,p10019568,Atelectasis|Pleural Effusion|Pneumothorax,0,1,0,1,0,1,0,0
+s56124175.txt,p10019568,Atelectasis|Cardiomegaly|Pneumothorax|Consolidation|Edema,0,1,1,0,0,1,1,1
+s58665413.txt,p10019568,Atelectasis|Pneumothorax,0,1,0,0,0,1,0,0
+s59892630.txt,p10019568,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s58500109.txt,p10019593,Pneumonia,0,0,0,0,1,0,0,0
+s53481915.txt,p10019777,Atelectasis|Pneumothorax,0,1,0,0,0,1,0,0
+s54750545.txt,p10019777,No Finding,1,0,0,0,0,0,0,0
+s55627966.txt,p10019777,Cardiomegaly|Pleural Effusion,0,0,1,1,0,0,0,0
+s56013693.txt,p10019777,Pneumonia,0,0,0,0,1,0,0,0
+s57883142.txt,p10019777,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumonia|Consolidation,0,1,1,1,1,0,1,0
+s58527977.txt,p10019777,No Finding,1,0,0,0,0,0,0,0
+s52734703.txt,p10020306,Atelectasis,0,1,0,0,0,0,0,0
+s58083231.txt,p10020306,Atelectasis|Cardiomegaly,0,1,1,0,0,0,0,0
+s58198752.txt,p10020306,Cardiomegaly|Consolidation,0,0,1,0,0,0,1,0
+s51690362.txt,p10020435,Pleural Effusion|Pneumothorax,0,0,0,1,0,1,0,0
+s57084280.txt,p10020435,No Finding,1,0,0,0,0,0,0,0
+s51970847.txt,p10020740,Atelectasis|Cardiomegaly|Pleural Effusion,0,1,1,1,0,0,0,0
+s52180258.txt,p10020740,No Finding,1,0,0,0,0,0,0,0
+s52268471.txt,p10020740,Pneumothorax,0,0,0,0,0,1,0,0
+s53160696.txt,p10020740,Atelectasis|Pneumonia|Consolidation,0,1,0,0,1,0,1,0
+s54429329.txt,p10020740,Atelectasis|Pleural Effusion|Consolidation,0,1,0,1,0,0,1,0
+s55372019.txt,p10020740,No Finding,1,0,0,0,0,0,0,0
+s55522869.txt,p10020740,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s56053044.txt,p10020740,Cardiomegaly,0,0,1,0,0,0,0,0
+s56201490.txt,p10020740,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s56959982.txt,p10020740,Atelectasis|Pleural Effusion|Consolidation,0,1,0,1,0,0,1,0
+s57037479.txt,p10020740,Atelectasis|Pneumothorax|Consolidation,0,1,0,0,0,1,1,0
+s57133090.txt,p10020740,No Finding,1,0,0,0,0,0,0,0
+s57634229.txt,p10020740,Pneumothorax,0,0,0,0,0,1,0,0
+s58116104.txt,p10020740,Atelectasis,0,1,0,0,0,0,0,0
+s58601155.txt,p10020740,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumonia|Consolidation|Edema,0,1,1,1,1,0,1,1
+s59317612.txt,p10020740,No Finding,1,0,0,0,0,0,0,0
+s59492946.txt,p10020740,Pleural Effusion,0,0,0,1,0,0,0,0
+s59638055.txt,p10020740,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s59646202.txt,p10020740,No Finding,1,0,0,0,0,0,0,0
+s59801677.txt,p10020740,Pleural Effusion,0,0,0,1,0,0,0,0
+s51779562.txt,p10020843,No Finding,1,0,0,0,0,0,0,0
+s50577055.txt,p10020852,No Finding,1,0,0,0,0,0,0,0
+s58129659.txt,p10020852,Pneumothorax,0,0,0,0,0,1,0,0
+s52441819.txt,p10020944,Atelectasis|Cardiomegaly|Edema,0,1,1,0,0,0,0,1
+s53903006.txt,p10020944,No Finding,1,0,0,0,0,0,0,0
+s54060261.txt,p10020944,Atelectasis|Pneumonia|Consolidation,0,1,0,0,1,0,1,0
+s54752011.txt,p10020944,Atelectasis|Pleural Effusion|Consolidation,0,1,0,1,0,0,1,0
+s55858000.txt,p10020944,Pleural Effusion,0,0,0,1,0,0,0,0
+s56067699.txt,p10020944,Atelectasis,0,1,0,0,0,0,0,0
+s56843445.txt,p10020944,Atelectasis|Cardiomegaly,0,1,1,0,0,0,0,0
+s57029107.txt,p10020944,Pleural Effusion|Pneumothorax|Consolidation|Edema,0,0,0,1,0,1,1,1
+s57546443.txt,p10020944,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumothorax|Edema,0,1,1,1,0,1,0,1
+s59169950.txt,p10020944,Cardiomegaly|Pleural Effusion|Pneumonia|Edema,0,0,1,1,1,0,0,1
+s59602114.txt,p10020944,Atelectasis|Cardiomegaly|Pneumonia,0,1,1,0,1,0,0,0
+s59618738.txt,p10020944,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s51196256.txt,p10021348,Pleural Effusion|Pneumonia|Pneumothorax,0,0,0,1,1,1,0,0
+s58126648.txt,p10021348,Edema,0,0,0,0,0,0,0,1
+s55834687.txt,p10021395,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s50316375.txt,p10021487,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s50763544.txt,p10021487,Cardiomegaly,0,0,1,0,0,0,0,0
+s51955860.txt,p10021487,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s52264519.txt,p10021487,Pleural Effusion,0,0,0,1,0,0,0,0
+s52487989.txt,p10021487,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s52512958.txt,p10021487,Cardiomegaly,0,0,1,0,0,0,0,0
+s52515667.txt,p10021487,Atelectasis|Cardiomegaly|Pneumonia,0,1,1,0,1,0,0,0
+s52532886.txt,p10021487,Atelectasis|Cardiomegaly|Pleural Effusion|Edema,0,1,1,1,0,0,0,1
+s52729894.txt,p10021487,Cardiomegaly|Pleural Effusion,0,0,1,1,0,0,0,0
+s53109949.txt,p10021487,Cardiomegaly|Pleural Effusion|Edema,0,0,1,1,0,0,0,1
+s53139340.txt,p10021487,No Finding,1,0,0,0,0,0,0,0
+s53730037.txt,p10021487,No Finding,1,0,0,0,0,0,0,0
+s54626295.txt,p10021487,Cardiomegaly|Pleural Effusion|Edema,0,0,1,1,0,0,0,1
+s54921147.txt,p10021487,Cardiomegaly,0,0,1,0,0,0,0,0
+s55024078.txt,p10021487,Edema,0,0,0,0,0,0,0,1
+s55681272.txt,p10021487,Pleural Effusion|Pneumothorax,0,0,0,1,0,1,0,0
+s56769265.txt,p10021487,Cardiomegaly|Pleural Effusion|Edema,0,0,1,1,0,0,0,1
+s57174722.txt,p10021487,Pleural Effusion|Consolidation|Edema,0,0,0,1,0,0,1,1
+s57544796.txt,p10021487,Atelectasis|Cardiomegaly,0,1,1,0,0,0,0,0
+s57549992.txt,p10021487,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s57861581.txt,p10021487,Atelectasis|Cardiomegaly|Pleural Effusion|Edema,0,1,1,1,0,0,0,1
+s58098754.txt,p10021487,Atelectasis|Pleural Effusion|Consolidation,0,1,0,1,0,0,1,0
+s59671735.txt,p10021487,Atelectasis|Consolidation,0,1,0,0,0,0,1,0
+s51474885.txt,p10021666,Atelectasis|Cardiomegaly,0,1,1,0,0,0,0,0
+s55219437.txt,p10021666,Atelectasis|Pleural Effusion|Pneumonia,0,1,0,1,1,0,0,0
+s50340689.txt,p10021704,Atelectasis|Pleural Effusion|Edema,0,1,0,1,0,0,0,1
+s51939213.txt,p10021927,Cardiomegaly|Pleural Effusion|Pneumonia|Consolidation,0,0,1,1,1,0,1,0
+s52138197.txt,p10021927,Cardiomegaly|Pleural Effusion|Pneumonia|Consolidation,0,0,1,1,1,0,1,0
+s52452170.txt,p10021927,Pneumonia,0,0,0,0,1,0,0,0
+s52675129.txt,p10021927,Atelectasis|Cardiomegaly|Pleural Effusion|Edema,0,1,1,1,0,0,0,1
+s54413057.txt,p10021927,Atelectasis|Consolidation,0,1,0,0,0,0,1,0
+s55422556.txt,p10021927,Atelectasis|Pneumonia|Edema,0,1,0,0,1,0,0,1
+s55642678.txt,p10021927,Atelectasis,0,1,0,0,0,0,0,0
+s55803399.txt,p10021927,Pleural Effusion|Pneumonia|Consolidation,0,0,0,1,1,0,1,0
+s56404554.txt,p10021927,Cardiomegaly,0,0,1,0,0,0,0,0
+s56474613.txt,p10021927,Cardiomegaly|Pleural Effusion|Edema,0,0,1,1,0,0,0,1
+s56863750.txt,p10021927,Cardiomegaly|Pleural Effusion|Pneumonia|Edema,0,0,1,1,1,0,0,1
+s57834745.txt,p10021927,Pleural Effusion|Pneumonia|Edema,0,0,0,1,1,0,0,1
+s58429029.txt,p10021927,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s58742316.txt,p10021927,Atelectasis|Cardiomegaly,0,1,1,0,0,0,0,0
+s58800461.txt,p10021927,Atelectasis|Pleural Effusion|Consolidation|Edema,0,1,0,1,0,0,1,1
+s59713053.txt,p10021927,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumonia|Edema,0,1,1,1,1,0,0,1
+s50014720.txt,p10021938,Cardiomegaly|Pleural Effusion|Edema,0,0,1,1,0,0,0,1
+s54308908.txt,p10021938,No Finding,1,0,0,0,0,0,0,0
+s55463845.txt,p10021938,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s50864266.txt,p10022037,Consolidation,0,0,0,0,0,0,1,0
+s56917931.txt,p10022037,No Finding,1,0,0,0,0,0,0,0
+s55830708.txt,p10022041,Cardiomegaly|Pneumothorax,0,0,1,0,0,1,0,0
+s56775341.txt,p10022041,Atelectasis|Pneumonia,0,1,0,0,1,0,0,0
+s58688931.txt,p10022041,Atelectasis,0,1,0,0,0,0,0,0
+s51071301.txt,p10022373,Pneumonia|Pneumothorax,0,0,0,0,1,1,0,0
+s54005410.txt,p10022373,Pneumonia,0,0,0,0,1,0,0,0
+s55084044.txt,p10022373,No Finding,1,0,0,0,0,0,0,0
+s55891252.txt,p10022373,Pneumonia,0,0,0,0,1,0,0,0
+s56011276.txt,p10022373,Atelectasis|Pleural Effusion|Consolidation,0,1,0,1,0,0,1,0
+s51246741.txt,p10023020,Pneumothorax|Consolidation|Edema,0,0,0,0,0,1,1,1
+s50130952.txt,p10023117,Atelectasis|Cardiomegaly,0,1,1,0,0,0,0,0
+s50447167.txt,p10023117,Atelectasis|Cardiomegaly|Consolidation,0,1,1,0,0,0,1,0
+s50767919.txt,p10023117,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumonia|Consolidation,0,1,1,1,1,0,1,0
+s51848374.txt,p10023117,Pneumonia|Pneumothorax|Consolidation,0,0,0,0,1,1,1,0
+s52880779.txt,p10023117,Atelectasis|Cardiomegaly|Pneumothorax|Edema,0,1,1,0,0,1,0,1
+s53372543.txt,p10023117,Atelectasis|Cardiomegaly|Pneumothorax,0,1,1,0,0,1,0,0
+s54051348.txt,p10023117,Atelectasis|Cardiomegaly|Consolidation|Edema,0,1,1,0,0,0,1,1
+s54147385.txt,p10023117,Cardiomegaly|Pneumonia|Edema,0,0,1,0,1,0,0,1
+s54404075.txt,p10023117,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s54675992.txt,p10023117,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s54761644.txt,p10023117,Cardiomegaly|Pleural Effusion|Pneumothorax|Edema,0,0,1,1,0,1,0,1
+s55383014.txt,p10023117,Atelectasis|Pleural Effusion|Edema,0,1,0,1,0,0,0,1
+s56007252.txt,p10023117,Atelectasis|Cardiomegaly|Edema,0,1,1,0,0,0,0,1
+s56067386.txt,p10023117,Cardiomegaly|Pleural Effusion|Pneumothorax,0,0,1,1,0,1,0,0
+s59094925.txt,p10023117,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s59383121.txt,p10023117,Atelectasis|Pneumothorax,0,1,0,0,0,1,0,0
+s59984631.txt,p10023117,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s51024811.txt,p10023239,Pneumonia,0,0,0,0,1,0,0,0
+s52858069.txt,p10023708,Cardiomegaly,0,0,1,0,0,0,0,0
+s56514664.txt,p10023708,Pleural Effusion|Pneumothorax,0,0,0,1,0,1,0,0
+s59148024.txt,p10023708,Pleural Effusion|Pneumothorax,0,0,0,1,0,1,0,0
+s51083114.txt,p10024018,Pleural Effusion,0,0,0,1,0,0,0,0
+s51288130.txt,p10024048,Pneumothorax,0,0,0,0,0,1,0,0
+s54088844.txt,p10024120,No Finding,1,0,0,0,0,0,0,0
+s55657355.txt,p10024130,Cardiomegaly,0,0,1,0,0,0,0,0
+s59997427.txt,p10024170,No Finding,1,0,0,0,0,0,0,0
+s52186169.txt,p10024331,No Finding,1,0,0,0,0,0,0,0
+s55744691.txt,p10024331,Pneumothorax,0,0,0,0,0,1,0,0
+s56690125.txt,p10024331,Cardiomegaly|Consolidation|Edema,0,0,1,0,0,0,1,1
+s57724025.txt,p10024331,Pneumonia|Consolidation,0,0,0,0,1,0,1,0
+s58970424.txt,p10024331,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s59977695.txt,p10024331,Pleural Effusion|Pneumonia,0,0,0,1,1,0,0,0
+s50842239.txt,p10024913,Pneumonia,0,0,0,0,1,0,0,0
+s51467077.txt,p10024913,Pleural Effusion,0,0,0,1,0,0,0,0
+s58061008.txt,p10024913,No Finding,1,0,0,0,0,0,0,0
+s58116491.txt,p10024913,Atelectasis,0,1,0,0,0,0,0,0
+s59681425.txt,p10024913,Pneumothorax,0,0,0,0,0,1,0,0
+s50732596.txt,p10024982,Atelectasis|Cardiomegaly|Pleural Effusion|Edema,0,1,1,1,0,0,0,1
+s50980427.txt,p10024982,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumothorax|Consolidation|Edema,0,1,1,1,0,1,1,1
+s51226294.txt,p10024982,Edema,0,0,0,0,0,0,0,1
+s51638975.txt,p10024982,Cardiomegaly|Pleural Effusion|Pneumothorax|Edema,0,0,1,1,0,1,0,1
+s52024751.txt,p10024982,Atelectasis|Cardiomegaly|Pleural Effusion,0,1,1,1,0,0,0,0
+s52295645.txt,p10024982,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s52413690.txt,p10024982,Cardiomegaly|Pneumonia,0,0,1,0,1,0,0,0
+s52567614.txt,p10024982,Cardiomegaly|Pleural Effusion|Edema,0,0,1,1,0,0,0,1
+s53158855.txt,p10024982,Cardiomegaly|Pleural Effusion|Edema,0,0,1,1,0,0,0,1
+s53186936.txt,p10024982,Cardiomegaly|Pleural Effusion|Edema,0,0,1,1,0,0,0,1
+s53898800.txt,p10024982,Cardiomegaly|Pleural Effusion,0,0,1,1,0,0,0,0
+s54438313.txt,p10024982,Atelectasis|Cardiomegaly|Edema,0,1,1,0,0,0,0,1
+s54589172.txt,p10024982,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumonia|Edema,0,1,1,1,1,0,0,1
+s54829612.txt,p10024982,Atelectasis|Cardiomegaly|Pleural Effusion|Edema,0,1,1,1,0,0,0,1
+s54981300.txt,p10024982,Cardiomegaly|Pleural Effusion|Edema,0,0,1,1,0,0,0,1
+s55121733.txt,p10024982,Atelectasis|Cardiomegaly,0,1,1,0,0,0,0,0
+s55271482.txt,p10024982,Atelectasis|Cardiomegaly|Pleural Effusion|Edema,0,1,1,1,0,0,0,1
+s56206556.txt,p10024982,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s57368861.txt,p10024982,Cardiomegaly|Pleural Effusion|Edema,0,0,1,1,0,0,0,1
+s57517987.txt,p10024982,Cardiomegaly|Pleural Effusion|Pneumothorax,0,0,1,1,0,1,0,0
+s57617161.txt,p10024982,Pneumothorax,0,0,0,0,0,1,0,0
+s57639867.txt,p10024982,Atelectasis|Pleural Effusion|Pneumonia,0,1,0,1,1,0,0,0
+s58294755.txt,p10024982,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s58575944.txt,p10024982,Atelectasis|Cardiomegaly|Pleural Effusion|Edema,0,1,1,1,0,0,0,1
+s59608895.txt,p10024982,Pleural Effusion|Edema,0,0,0,1,0,0,0,1
+s56864126.txt,p10024984,Pneumothorax,0,0,0,0,0,1,0,0
+s50196457.txt,p10025139,Atelectasis|Cardiomegaly|Pneumonia,0,1,1,0,1,0,0,0
+s50252522.txt,p10025139,Cardiomegaly,0,0,1,0,0,0,0,0
+s57077706.txt,p10025139,Cardiomegaly|Consolidation,0,0,1,0,0,0,1,0
+s50115535.txt,p10025268,Atelectasis|Pleural Effusion|Consolidation,0,1,0,1,0,0,1,0
+s52697858.txt,p10025268,Atelectasis|Pleural Effusion|Edema,0,1,0,1,0,0,0,1
+s53208209.txt,p10025268,Atelectasis|Pneumonia,0,1,0,0,1,0,0,0
+s57742816.txt,p10025268,Atelectasis|Pneumonia,0,1,0,0,1,0,0,0
+s54445248.txt,p10025458,No Finding,1,0,0,0,0,0,0,0
+s50720412.txt,p10025463,Atelectasis|Pleural Effusion|Consolidation|Edema,0,1,0,1,0,0,1,1
+s51476943.txt,p10025630,No Finding,1,0,0,0,0,0,0,0
+s59510909.txt,p10025630,Atelectasis|Pleural Effusion|Pneumonia,0,1,0,1,1,0,0,0
+s51297617.txt,p10025647,Cardiomegaly|Pleural Effusion|Pneumonia|Consolidation,0,0,1,1,1,0,1,0
+s53436257.txt,p10025647,Atelectasis|Cardiomegaly|Pleural Effusion|Edema,0,1,1,1,0,0,0,1
+s54701892.txt,p10025647,Atelectasis|Pleural Effusion|Edema,0,1,0,1,0,0,0,1
+s54831482.txt,p10025647,Cardiomegaly|Pneumonia|Edema,0,0,1,0,1,0,0,1
+s56005833.txt,p10025647,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s59622244.txt,p10025647,Consolidation,0,0,0,0,0,0,1,0
+s57075951.txt,p10025759,Pneumonia,0,0,0,0,1,0,0,0
+s56326147.txt,p10025791,Cardiomegaly|Pleural Effusion|Edema,0,0,1,1,0,0,0,1
+s51966058.txt,p10025841,Cardiomegaly|Consolidation,0,0,1,0,0,0,1,0
+s59395841.txt,p10026055,Cardiomegaly|Pneumothorax,0,0,1,0,0,1,0,0
+s52450603.txt,p10026077,Cardiomegaly,0,0,1,0,0,0,0,0
+s57891821.txt,p10026165,Atelectasis|Pleural Effusion|Pneumothorax|Consolidation|Edema,0,1,0,1,0,1,1,1
+s50356590.txt,p10026255,Atelectasis|Pneumothorax,0,1,0,0,0,1,0,0
+s50378131.txt,p10026255,Atelectasis|Consolidation,0,1,0,0,0,0,1,0
+s50395086.txt,p10026255,Cardiomegaly|Pneumonia,0,0,1,0,1,0,0,0
+s50617488.txt,p10026255,Cardiomegaly|Pleural Effusion,0,0,1,1,0,0,0,0
+s52035576.txt,p10026255,Cardiomegaly|Pneumothorax,0,0,1,0,0,1,0,0
+s52058107.txt,p10026255,No Finding,1,0,0,0,0,0,0,0
+s52168916.txt,p10026255,No Finding,1,0,0,0,0,0,0,0
+s53472223.txt,p10026255,Atelectasis|Consolidation,0,1,0,0,0,0,1,0
+s55384601.txt,p10026255,Pneumothorax,0,0,0,0,0,1,0,0
+s55516976.txt,p10026255,Atelectasis|Pneumothorax,0,1,0,0,0,1,0,0
+s57824622.txt,p10026255,Atelectasis|Pleural Effusion|Pneumothorax,0,1,0,1,0,1,0,0
+s58640215.txt,p10026255,Pneumothorax,0,0,0,0,0,1,0,0
+s50405504.txt,p10026263,Cardiomegaly,0,0,1,0,0,0,0,0
+s56448939.txt,p10026263,Cardiomegaly|Pneumothorax|Edema,0,0,1,0,0,1,0,1
+s57413062.txt,p10026263,Pleural Effusion|Pneumothorax,0,0,0,1,0,1,0,0
+s54886258.txt,p10026354,Pleural Effusion|Pneumonia|Consolidation,0,0,0,1,1,0,1,0
+s55348031.txt,p10026354,Consolidation,0,0,0,0,0,0,1,0
+s54766817.txt,p10026404,Pleural Effusion|Edema,0,0,0,1,0,0,0,1
+s50088546.txt,p10026698,Pneumonia,0,0,0,0,1,0,0,0
+s50908403.txt,p10026698,No Finding,1,0,0,0,0,0,0,0
+s59893812.txt,p10026754,Atelectasis|Pleural Effusion|Pneumothorax,0,1,0,1,0,1,0,0
+s51906383.txt,p10026950,Atelectasis|Cardiomegaly|Pleural Effusion|Consolidation|Edema,0,1,1,1,0,0,1,1
+s54993065.txt,p10026950,Cardiomegaly|Pleural Effusion,0,0,1,1,0,0,0,0
+s51919409.txt,p10027100,Pneumothorax,0,0,0,0,0,1,0,0
+s52417922.txt,p10027100,Consolidation,0,0,0,0,0,0,1,0
+s52812156.txt,p10027100,Pleural Effusion|Pneumothorax,0,0,0,1,0,1,0,0
+s53799740.txt,p10027100,Pleural Effusion|Pneumonia|Pneumothorax,0,0,0,1,1,1,0,0
+s58970064.txt,p10027100,Pneumonia|Edema,0,0,0,0,1,0,0,1
+s59445954.txt,p10027100,Edema,0,0,0,0,0,0,0,1
+s59896865.txt,p10027100,Pleural Effusion|Pneumonia,0,0,0,1,1,0,0,0
+s54166946.txt,p10027557,No Finding,1,0,0,0,0,0,0,0
+s51580408.txt,p10027602,No Finding,1,0,0,0,0,0,0,0
+s51645407.txt,p10027602,No Finding,1,0,0,0,0,0,0,0
+s52261670.txt,p10027602,Pleural Effusion,0,0,0,1,0,0,0,0
+s52323342.txt,p10027602,Pneumonia,0,0,0,0,1,0,0,0
+s54098104.txt,p10027602,Cardiomegaly|Pleural Effusion|Pneumonia,0,0,1,1,1,0,0,0
+s54741765.txt,p10027602,Cardiomegaly|Pleural Effusion,0,0,1,1,0,0,0,0
+s55019003.txt,p10027602,Pneumothorax,0,0,0,0,0,1,0,0
+s56041330.txt,p10027602,Cardiomegaly|Pneumothorax,0,0,1,0,0,1,0,0
+s56777726.txt,p10027602,Consolidation,0,0,0,0,0,0,1,0
+s59761701.txt,p10027602,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s59894220.txt,p10027602,Edema,0,0,0,0,0,0,0,1
+s55956490.txt,p10027672,Cardiomegaly,0,0,1,0,0,0,0,0
+s50867638.txt,p10027957,Pneumothorax,0,0,0,0,0,1,0,0
+s52771355.txt,p10027957,Pneumonia,0,0,0,0,1,0,0,0
+s53807579.txt,p10027957,Pleural Effusion|Pneumonia|Pneumothorax,0,0,0,1,1,1,0,0
+s54120913.txt,p10027957,Pleural Effusion,0,0,0,1,0,0,0,0
+s54310741.txt,p10027957,No Finding,1,0,0,0,0,0,0,0
+s57665959.txt,p10027957,No Finding,1,0,0,0,0,0,0,0
+s59195693.txt,p10027957,No Finding,1,0,0,0,0,0,0,0
+s56004298.txt,p10028012,Edema,0,0,0,0,0,0,0,1
+s54440894.txt,p10028098,No Finding,1,0,0,0,0,0,0,0
+s57225530.txt,p10028125,Pleural Effusion,0,0,0,1,0,0,0,0
+s56342713.txt,p10028159,Atelectasis|Pleural Effusion|Pneumothorax,0,1,0,1,0,1,0,0
+s51766251.txt,p10028306,Consolidation,0,0,0,0,0,0,1,0
+s52781231.txt,p10028480,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s52938334.txt,p10028480,Cardiomegaly|Pneumonia|Edema,0,0,1,0,1,0,0,1
+s53807119.txt,p10028480,Cardiomegaly|Pneumonia,0,0,1,0,1,0,0,0
+s57458660.txt,p10028480,Atelectasis|Cardiomegaly|Pneumothorax|Edema,0,1,1,0,0,1,0,1
+s59153189.txt,p10028480,Atelectasis|Pleural Effusion|Pneumonia,0,1,0,1,1,0,0,0
+s52719217.txt,p10028683,Pleural Effusion|Pneumonia|Edema,0,0,0,1,1,0,0,1
+s50022566.txt,p10029038,Pneumothorax,0,0,0,0,0,1,0,0
+s55861994.txt,p10029106,Cardiomegaly|Pleural Effusion|Pneumothorax|Edema,0,0,1,1,0,1,0,1
+s50907647.txt,p10029291,Atelectasis|Pleural Effusion|Edema,0,1,0,1,0,0,0,1
+s51934618.txt,p10029291,Pneumothorax|Edema,0,0,0,0,0,1,0,1
+s51946347.txt,p10029291,Pleural Effusion|Pneumothorax|Edema,0,0,0,1,0,1,0,1
+s52115281.txt,p10029291,Atelectasis|Pleural Effusion|Pneumonia|Consolidation|Edema,0,1,0,1,1,0,1,1
+s54531745.txt,p10029291,No Finding,1,0,0,0,0,0,0,0
+s55252960.txt,p10029291,No Finding,1,0,0,0,0,0,0,0
+s55735656.txt,p10029291,No Finding,1,0,0,0,0,0,0,0
+s56112507.txt,p10029291,No Finding,1,0,0,0,0,0,0,0
+s58553613.txt,p10029291,Atelectasis|Cardiomegaly,0,1,1,0,0,0,0,0
+s58888045.txt,p10029291,Pleural Effusion|Pneumothorax,0,0,0,1,0,1,0,0
+s59069679.txt,p10029291,Atelectasis|Cardiomegaly|Pleural Effusion|Edema,0,1,1,1,0,0,0,1
+s59308512.txt,p10029291,Atelectasis|Cardiomegaly|Pleural Effusion,0,1,1,1,0,0,0,0
+s59372381.txt,p10029291,No Finding,1,0,0,0,0,0,0,0
+s50542413.txt,p10029411,No Finding,1,0,0,0,0,0,0,0
+s55015852.txt,p10029411,Atelectasis|Consolidation,0,1,0,0,0,0,1,0
+s51797904.txt,p10029874,Atelectasis|Consolidation|Edema,0,1,0,0,0,0,1,1
+s52202163.txt,p10029874,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s53475623.txt,p10029874,Atelectasis|Cardiomegaly|Pleural Effusion|Edema,0,1,1,1,0,0,0,1
+s54139930.txt,p10029874,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumonia|Edema,0,1,1,1,1,0,0,1
+s54149750.txt,p10029874,Pneumonia,0,0,0,0,1,0,0,0
+s54860819.txt,p10029874,Atelectasis,0,1,0,0,0,0,0,0
+s55355911.txt,p10029874,Atelectasis|Pneumonia,0,1,0,0,1,0,0,0
+s58053419.txt,p10029874,Atelectasis|Cardiomegaly|Pleural Effusion|Consolidation,0,1,1,1,0,0,1,0
+s54903761.txt,p10030046,No Finding,1,0,0,0,0,0,0,0
+s50519814.txt,p10030487,Atelectasis|Cardiomegaly|Edema,0,1,1,0,0,0,0,1
+s52922406.txt,p10030487,Cardiomegaly|Pneumonia,0,0,1,0,1,0,0,0
+s53249827.txt,p10030487,Atelectasis|Cardiomegaly|Pneumonia|Consolidation,0,1,1,0,1,0,1,0
+s55326723.txt,p10030487,Atelectasis|Cardiomegaly,0,1,1,0,0,0,0,0
+s56404897.txt,p10030487,Cardiomegaly|Pneumonia|Consolidation,0,0,1,0,1,0,1,0
+s57391561.txt,p10030487,Atelectasis|Cardiomegaly|Pleural Effusion,0,1,1,1,0,0,0,0
+s54313667.txt,p10030579,No Finding,1,0,0,0,0,0,0,0
+s56079922.txt,p10030630,Pneumothorax,0,0,0,0,0,1,0,0
+s51882357.txt,p10030753,No Finding,1,0,0,0,0,0,0,0
+s52230171.txt,p10030753,Cardiomegaly,0,0,1,0,0,0,0,0
+s52571593.txt,p10030753,Consolidation|Edema,0,0,0,0,0,0,1,1
+s53034862.txt,p10030753,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumonia|Edema,0,1,1,1,1,0,0,1
+s53724703.txt,p10030753,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s55205725.txt,p10030753,Atelectasis|Pneumothorax,0,1,0,0,0,1,0,0
+s56648067.txt,p10030753,Cardiomegaly|Pneumonia,0,0,1,0,1,0,0,0
+s57016568.txt,p10030753,Atelectasis|Cardiomegaly,0,1,1,0,0,0,0,0
+s59825225.txt,p10030753,Atelectasis,0,1,0,0,0,0,0,0
+s56781423.txt,p10030863,No Finding,1,0,0,0,0,0,0,0
+s59457485.txt,p10031358,Consolidation|Edema,0,0,0,0,0,0,1,1
+s53503478.txt,p10031687,No Finding,1,0,0,0,0,0,0,0
+s56022717.txt,p10031687,Cardiomegaly,0,0,1,0,0,0,0,0
+s56473015.txt,p10031687,Atelectasis|Pneumothorax|Edema,0,1,0,0,0,1,0,1
+s53085045.txt,p10031816,Pleural Effusion|Pneumothorax,0,0,0,1,0,1,0,0
+s59326077.txt,p10031816,Pleural Effusion|Pneumonia|Pneumothorax|Edema,0,0,0,1,1,1,0,1
+s53101309.txt,p10031850,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumonia|Consolidation,0,1,1,1,1,0,1,0
+s54587031.txt,p10031850,Pneumonia,0,0,0,0,1,0,0,0
+s56419673.txt,p10031850,Atelectasis|Cardiomegaly|Consolidation|Edema,0,1,1,0,0,0,1,1
+s59085528.txt,p10031850,Atelectasis|Pleural Effusion|Pneumonia|Edema,0,1,0,1,1,0,0,1
+s50002405.txt,p10032409,No Finding,1,0,0,0,0,0,0,0
+s50222572.txt,p10032409,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumonia,0,1,1,1,1,0,0,0
+s50400468.txt,p10032409,Atelectasis|Pleural Effusion|Pneumonia,0,1,0,1,1,0,0,0
+s51371118.txt,p10032409,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumothorax|Edema,0,1,1,1,0,1,0,1
+s51455994.txt,p10032409,Cardiomegaly|Pleural Effusion|Pneumothorax,0,0,1,1,0,1,0,0
+s51611449.txt,p10032409,Atelectasis|Pneumonia,0,1,0,0,1,0,0,0
+s51636382.txt,p10032409,Cardiomegaly,0,0,1,0,0,0,0,0
+s51759094.txt,p10032409,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumonia|Edema,0,1,1,1,1,0,0,1
+s51910314.txt,p10032409,Cardiomegaly,0,0,1,0,0,0,0,0
+s52149024.txt,p10032409,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumothorax|Edema,0,1,1,1,0,1,0,1
+s52344253.txt,p10032409,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s52468723.txt,p10032409,Cardiomegaly|Pleural Effusion|Edema,0,0,1,1,0,0,0,1
+s52555915.txt,p10032409,Cardiomegaly|Pleural Effusion,0,0,1,1,0,0,0,0
+s52729515.txt,p10032409,Cardiomegaly|Pleural Effusion|Pneumothorax|Edema,0,0,1,1,0,1,0,1
+s53114330.txt,p10032409,Atelectasis|Cardiomegaly|Pleural Effusion|Edema,0,1,1,1,0,0,0,1
+s53362562.txt,p10032409,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s54157824.txt,p10032409,Cardiomegaly|Pneumonia|Edema,0,0,1,0,1,0,0,1
+s54300630.txt,p10032409,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumonia,0,1,1,1,1,0,0,0
+s54744778.txt,p10032409,No Finding,1,0,0,0,0,0,0,0
+s55101318.txt,p10032409,Cardiomegaly|Pleural Effusion,0,0,1,1,0,0,0,0
+s55242788.txt,p10032409,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s55250890.txt,p10032409,No Finding,1,0,0,0,0,0,0,0
+s55481921.txt,p10032409,Pleural Effusion|Pneumonia|Edema,0,0,0,1,1,0,0,1
+s57131291.txt,p10032409,Cardiomegaly,0,0,1,0,0,0,0,0
+s58140535.txt,p10032409,Cardiomegaly|Pleural Effusion|Edema,0,0,1,1,0,0,0,1
+s58373141.txt,p10032409,Pleural Effusion|Pneumonia,0,0,0,1,1,0,0,0
+s58699467.txt,p10032409,Cardiomegaly|Pleural Effusion|Pneumothorax,0,0,1,1,0,1,0,0
+s59757357.txt,p10032409,Consolidation,0,0,0,0,0,0,1,0
+s59955977.txt,p10032409,Pleural Effusion|Edema,0,0,0,1,0,0,0,1
+s50543030.txt,p10032608,Pneumothorax,0,0,0,0,0,1,0,0
+s50331901.txt,p10032725,No Finding,1,0,0,0,0,0,0,0
+s55504914.txt,p10032725,No Finding,1,0,0,0,0,0,0,0
+s50259406.txt,p10032890,Pneumonia,0,0,0,0,1,0,0,0
+s50029042.txt,p10033106,Pleural Effusion|Edema,0,0,0,1,0,0,0,1
+s53250799.txt,p10033290,Cardiomegaly|Pneumothorax,0,0,1,0,0,1,0,0
+s56976954.txt,p10033409,Atelectasis|Cardiomegaly,0,1,1,0,0,0,0,0
+s56492208.txt,p10033552,Pneumonia|Edema,0,0,0,0,1,0,0,1
+s56920846.txt,p10033552,Pneumothorax|Consolidation,0,0,0,0,0,1,1,0
+s57007678.txt,p10033552,Atelectasis|Pleural Effusion|Pneumonia,0,1,0,1,1,0,0,0
+s58734596.txt,p10033552,Pleural Effusion|Pneumothorax,0,0,0,1,0,1,0,0
+s52836797.txt,p10033760,No Finding,1,0,0,0,0,0,0,0
+s53138824.txt,p10034062,No Finding,1,0,0,0,0,0,0,0
+s50867766.txt,p10034469,Atelectasis|Pneumonia|Pneumothorax,0,1,0,0,1,1,0,0
+s53493224.txt,p10034899,Pneumonia|Pneumothorax|Edema,0,0,0,0,1,1,0,1
+s58495152.txt,p10035301,Pleural Effusion|Pneumothorax|Consolidation,0,0,0,1,0,1,1,0
+s50214252.txt,p10035631,Pneumothorax,0,0,0,0,0,1,0,0
+s50257519.txt,p10035631,Atelectasis|Pleural Effusion|Pneumonia|Pneumothorax|Consolidation,0,1,0,1,1,1,1,0
+s50955670.txt,p10035631,Pleural Effusion|Pneumonia|Pneumothorax,0,0,0,1,1,1,0,0
+s51304196.txt,p10035631,No Finding,1,0,0,0,0,0,0,0
+s52445335.txt,p10035631,Cardiomegaly,0,0,1,0,0,0,0,0
+s54278093.txt,p10035631,Pneumonia,0,0,0,0,1,0,0,0
+s57929979.txt,p10035631,Cardiomegaly|Pneumonia,0,0,1,0,1,0,0,0
+s58755270.txt,p10035631,Cardiomegaly|Pneumothorax,0,0,1,0,0,1,0,0
+s58924047.txt,p10035631,Cardiomegaly|Pneumonia|Pneumothorax,0,0,1,0,1,1,0,0
+s54306644.txt,p10035667,No Finding,1,0,0,0,0,0,0,0
+s52502485.txt,p10035780,Cardiomegaly,0,0,1,0,0,0,0,0
+s53087369.txt,p10035780,No Finding,1,0,0,0,0,0,0,0
+s53120593.txt,p10035780,Pneumothorax,0,0,0,0,0,1,0,0
+s55343330.txt,p10035780,Cardiomegaly|Pleural Effusion|Pneumonia|Pneumothorax,0,0,1,1,1,1,0,0
+s59076224.txt,p10035780,Pneumonia|Consolidation,0,0,0,0,1,0,1,0
+s57254866.txt,p10036086,Atelectasis|Cardiomegaly|Edema,0,1,1,0,0,0,0,1
+s58578322.txt,p10036086,Atelectasis|Cardiomegaly|Pleural Effusion,0,1,1,1,0,0,0,0
+s58554602.txt,p10036104,Pneumothorax,0,0,0,0,0,1,0,0
+s50703562.txt,p10036161,Pneumonia|Pneumothorax,0,0,0,0,1,1,0,0
+s59568552.txt,p10036628,No Finding,1,0,0,0,0,0,0,0
+s53231673.txt,p10036909,No Finding,1,0,0,0,0,0,0,0
+s50400085.txt,p10037020,Atelectasis|Pneumothorax,0,1,0,0,0,1,0,0
+s56218658.txt,p10037020,Pneumonia,0,0,0,0,1,0,0,0
+s56501836.txt,p10037020,Atelectasis|Cardiomegaly|Pneumothorax,0,1,1,0,0,1,0,0
+s58400371.txt,p10037020,Pneumothorax,0,0,0,0,0,1,0,0
+s52374866.txt,p10037432,Pneumonia|Consolidation,0,0,0,0,1,0,1,0
+s53928123.txt,p10037432,Pleural Effusion|Pneumothorax,0,0,0,1,0,1,0,0
+s57183468.txt,p10037598,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s54515885.txt,p10037602,Pneumonia,0,0,0,0,1,0,0,0
+s56937008.txt,p10037602,Cardiomegaly|Pleural Effusion,0,0,1,1,0,0,0,0
+s54131261.txt,p10037769,No Finding,1,0,0,0,0,0,0,0
+s50319820.txt,p10037818,Pleural Effusion|Pneumothorax,0,0,0,1,0,1,0,0
+s50317115.txt,p10037928,Pneumonia,0,0,0,0,1,0,0,0
+s50369509.txt,p10037928,Cardiomegaly,0,0,1,0,0,0,0,0
+s50750148.txt,p10037928,No Finding,1,0,0,0,0,0,0,0
+s55225655.txt,p10037928,Pleural Effusion|Pneumothorax,0,0,0,1,0,1,0,0
+s56264697.txt,p10037928,Cardiomegaly,0,0,1,0,0,0,0,0
+s56942662.txt,p10037928,Pneumothorax|Consolidation|Edema,0,0,0,0,0,1,1,1
+s57611600.txt,p10037928,Pleural Effusion,0,0,0,1,0,0,0,0
+s57629828.txt,p10037928,Pleural Effusion,0,0,0,1,0,0,0,0
+s57804560.txt,p10037928,Pleural Effusion|Pneumonia,0,0,0,1,1,0,0,0
+s58272405.txt,p10037928,Atelectasis|Pleural Effusion|Pneumothorax,0,1,0,1,0,1,0,0
+s58807737.txt,p10037928,Atelectasis|Pleural Effusion|Pneumonia|Pneumothorax,0,1,0,1,1,1,0,0
+s53059965.txt,p10037967,Pneumothorax,0,0,0,0,0,1,0,0
+s55073504.txt,p10037967,Pleural Effusion,0,0,0,1,0,0,0,0
+s56403664.txt,p10037967,No Finding,1,0,0,0,0,0,0,0
+s58780598.txt,p10037967,No Finding,1,0,0,0,0,0,0,0
+s51895880.txt,p10038332,Cardiomegaly|Pneumonia,0,0,1,0,1,0,0,0
+s52128719.txt,p10038332,Cardiomegaly,0,0,1,0,0,0,0,0
+s57631331.txt,p10038828,Atelectasis|Pleural Effusion|Pneumothorax,0,1,0,1,0,1,0,0
+s50971552.txt,p10038999,Atelectasis|Cardiomegaly|Pleural Effusion|Consolidation,0,1,1,1,0,0,1,0
+s51204730.txt,p10038999,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s51437212.txt,p10038999,Atelectasis|Pleural Effusion|Pneumothorax,0,1,0,1,0,1,0,0
+s51760120.txt,p10038999,Atelectasis|Pleural Effusion|Edema,0,1,0,1,0,0,0,1
+s53087507.txt,p10038999,Pleural Effusion,0,0,0,1,0,0,0,0
+s53658987.txt,p10038999,Pleural Effusion,0,0,0,1,0,0,0,0
+s54562872.txt,p10038999,Atelectasis|Cardiomegaly|Pleural Effusion,0,1,1,1,0,0,0,0
+s55930674.txt,p10038999,Pleural Effusion|Consolidation,0,0,0,1,0,0,1,0
+s57007792.txt,p10038999,Cardiomegaly|Pleural Effusion,0,0,1,1,0,0,0,0
+s59572507.txt,p10038999,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s50177761.txt,p10039272,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s50384423.txt,p10039272,Pleural Effusion|Pneumonia,0,0,0,1,1,0,0,0
+s50589184.txt,p10039272,Pleural Effusion|Pneumothorax|Consolidation,0,0,0,1,0,1,1,0
+s50821222.txt,p10039272,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s51168084.txt,p10039272,Pleural Effusion|Pneumothorax,0,0,0,1,0,1,0,0
+s52657157.txt,p10039272,Atelectasis,0,1,0,0,0,0,0,0
+s53049255.txt,p10039272,Cardiomegaly|Pleural Effusion,0,0,1,1,0,0,0,0
+s53612745.txt,p10039272,Atelectasis|Cardiomegaly|Pleural Effusion,0,1,1,1,0,0,0,0
+s54437576.txt,p10039272,Atelectasis|Pleural Effusion|Edema,0,1,0,1,0,0,0,1
+s55594119.txt,p10039272,Cardiomegaly|Pleural Effusion|Pneumonia|Pneumothorax,0,0,1,1,1,1,0,0
+s55751631.txt,p10039272,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumothorax|Consolidation,0,1,1,1,0,1,1,0
+s56135137.txt,p10039272,Pleural Effusion,0,0,0,1,0,0,0,0
+s56509573.txt,p10039272,Atelectasis|Cardiomegaly|Pleural Effusion|Consolidation,0,1,1,1,0,0,1,0
+s56823182.txt,p10039272,Atelectasis|Cardiomegaly|Pleural Effusion|Consolidation,0,1,1,1,0,0,1,0
+s56948355.txt,p10039272,Pneumothorax,0,0,0,0,0,1,0,0
+s57688550.txt,p10039272,Pleural Effusion|Pneumonia,0,0,0,1,1,0,0,0
+s58098083.txt,p10039272,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumonia|Consolidation,0,1,1,1,1,0,1,0
+s59975213.txt,p10039272,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumonia|Pneumothorax,0,1,1,1,1,1,0,0
+s51396442.txt,p10039302,Cardiomegaly|Pleural Effusion|Pneumonia|Pneumothorax,0,0,1,1,1,1,0,0
+s51998680.txt,p10039302,Edema,0,0,0,0,0,0,0,1
+s52140570.txt,p10039302,Cardiomegaly|Pleural Effusion|Pneumonia|Edema,0,0,1,1,1,0,0,1
+s52548274.txt,p10039302,Cardiomegaly|Pneumonia|Consolidation,0,0,1,0,1,0,1,0
+s56223619.txt,p10039302,Cardiomegaly|Pneumothorax,0,0,1,0,0,1,0,0
+s53999249.txt,p10039360,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s51044847.txt,p10039387,Atelectasis|Consolidation,0,1,0,0,0,0,1,0
+s53603281.txt,p10039643,Pleural Effusion|Pneumonia|Consolidation,0,0,0,1,1,0,1,0
+s50766016.txt,p10039708,Pleural Effusion|Consolidation|Edema,0,0,0,1,0,0,1,1
+s50938342.txt,p10039708,Pneumothorax,0,0,0,0,0,1,0,0
+s51380099.txt,p10039708,Cardiomegaly,0,0,1,0,0,0,0,0
+s51842243.txt,p10039708,Pleural Effusion|Edema,0,0,0,1,0,0,0,1
+s51907574.txt,p10039708,Pleural Effusion|Pneumothorax,0,0,0,1,0,1,0,0
+s52039221.txt,p10039708,Pneumonia|Pneumothorax|Edema,0,0,0,0,1,1,0,1
+s52212139.txt,p10039708,Pleural Effusion,0,0,0,1,0,0,0,0
+s52420354.txt,p10039708,Atelectasis,0,1,0,0,0,0,0,0
+s52492334.txt,p10039708,Edema,0,0,0,0,0,0,0,1
+s53594394.txt,p10039708,Cardiomegaly,0,0,1,0,0,0,0,0
+s53671981.txt,p10039708,No Finding,1,0,0,0,0,0,0,0
+s53675063.txt,p10039708,Edema,0,0,0,0,0,0,0,1
+s53699596.txt,p10039708,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s53721111.txt,p10039708,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s53731428.txt,p10039708,Edema,0,0,0,0,0,0,0,1
+s54676653.txt,p10039708,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s54897888.txt,p10039708,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s57243660.txt,p10039708,Atelectasis|Pneumonia|Edema,0,1,0,0,1,0,0,1
+s57407980.txt,p10039708,Edema,0,0,0,0,0,0,0,1
+s57591044.txt,p10039708,Pleural Effusion|Edema,0,0,0,1,0,0,0,1
+s58376483.txt,p10039708,No Finding,1,0,0,0,0,0,0,0
+s58565615.txt,p10039708,Pleural Effusion,0,0,0,1,0,0,0,0
+s58947467.txt,p10039708,No Finding,1,0,0,0,0,0,0,0
+s59291493.txt,p10039708,Atelectasis,0,1,0,0,0,0,0,0
+s58774423.txt,p10039913,Atelectasis,0,1,0,0,0,0,0,0
+s55660029.txt,p10039953,Pneumonia|Pneumothorax,0,0,0,0,1,1,0,0
+s51761406.txt,p10039959,Cardiomegaly|Pleural Effusion|Pneumothorax,0,0,1,1,0,1,0,0
+s56461316.txt,p10040025,Consolidation,0,0,0,0,0,0,1,0
+s56874940.txt,p10040025,Cardiomegaly|Pneumothorax|Consolidation|Edema,0,0,1,0,0,1,1,1
+s57798724.txt,p10040025,Cardiomegaly,0,0,1,0,0,0,0,0
+s58793821.txt,p10040025,Cardiomegaly|Consolidation|Edema,0,0,1,0,0,0,1,1
+s59559079.txt,p10040082,Pneumonia|Edema,0,0,0,0,1,0,0,1
+s51524239.txt,p10040221,No Finding,1,0,0,0,0,0,0,0
+s50582222.txt,p10040284,Pneumothorax,0,0,0,0,0,1,0,0
+s54336605.txt,p10040602,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumonia,0,1,1,1,1,0,0,0
+s53941474.txt,p10040604,No Finding,1,0,0,0,0,0,0,0
+s52856319.txt,p10040622,Pleural Effusion,0,0,0,1,0,0,0,0
+s51708526.txt,p10040631,No Finding,1,0,0,0,0,0,0,0
+s53480981.txt,p10040631,Pneumonia|Consolidation,0,0,0,0,1,0,1,0
+s53118743.txt,p10040721,Atelectasis|Pleural Effusion|Edema,0,1,0,1,0,0,0,1
+s54897161.txt,p10040768,No Finding,1,0,0,0,0,0,0,0
+s50940511.txt,p10040884,Pneumothorax,0,0,0,0,0,1,0,0
+s56265430.txt,p10040884,No Finding,1,0,0,0,0,0,0,0
+s57513869.txt,p10041196,Pleural Effusion,0,0,0,1,0,0,0,0
+s58650508.txt,p10041312,Pleural Effusion,0,0,0,1,0,0,0,0
+s54849524.txt,p10041408,Atelectasis|Pleural Effusion|Pneumonia,0,1,0,1,1,0,0,0
+s58489475.txt,p10041408,Pleural Effusion,0,0,0,1,0,0,0,0
+s50301247.txt,p10041918,No Finding,1,0,0,0,0,0,0,0
+s54120088.txt,p10041918,Consolidation,0,0,0,0,0,0,1,0
+s52748850.txt,p10042037,Pneumonia|Consolidation,0,0,0,0,1,0,1,0
+s50379033.txt,p10042350,Pneumothorax,0,0,0,0,0,1,0,0
+s52870307.txt,p10042615,Pneumothorax,0,0,0,0,0,1,0,0
+s59055102.txt,p10042769,Pleural Effusion|Pneumonia,0,0,0,1,1,0,0,0
+s51978525.txt,p10042810,Pneumothorax,0,0,0,0,0,1,0,0
+s52077136.txt,p10042810,Cardiomegaly|Pleural Effusion|Pneumonia|Consolidation,0,0,1,1,1,0,1,0
+s55039117.txt,p10042810,Atelectasis|Cardiomegaly,0,1,1,0,0,0,0,0
+s58507360.txt,p10042810,Cardiomegaly|Pneumothorax|Consolidation,0,0,1,0,0,1,1,0
+s56935198.txt,p10042998,Pleural Effusion|Edema,0,0,0,1,0,0,0,1
+s57750965.txt,p10043050,Pleural Effusion,0,0,0,1,0,0,0,0
+s51472940.txt,p10043103,Pneumonia,0,0,0,0,1,0,0,0
+s58460599.txt,p10043115,Pneumonia,0,0,0,0,1,0,0,0
+s58467930.txt,p10043115,Pneumonia,0,0,0,0,1,0,0,0
+s51632240.txt,p10043139,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumothorax|Edema,0,1,1,1,0,1,0,1
+s54036634.txt,p10043177,No Finding,1,0,0,0,0,0,0,0
+s54813548.txt,p10043177,Pneumothorax|Edema,0,0,0,0,0,1,0,1
+s51406412.txt,p10043321,Cardiomegaly|Pleural Effusion|Pneumothorax,0,0,1,1,0,1,0,0
+s53004485.txt,p10043321,Cardiomegaly|Pneumothorax,0,0,1,0,0,1,0,0
+s53579054.txt,p10043321,Pneumothorax,0,0,0,0,0,1,0,0
+s56415759.txt,p10043321,Cardiomegaly|Pleural Effusion|Pneumonia|Pneumothorax|Edema,0,0,1,1,1,1,0,1
+s57676358.txt,p10043321,Cardiomegaly|Pneumonia,0,0,1,0,1,0,0,0
+s59164130.txt,p10043321,Pneumothorax|Edema,0,0,0,0,0,1,0,1
+s55353743.txt,p10043339,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s50303127.txt,p10043423,No Finding,1,0,0,0,0,0,0,0
+s57983886.txt,p10043423,Edema,0,0,0,0,0,0,0,1
+s52308461.txt,p10043514,Pneumothorax,0,0,0,0,0,1,0,0
+s52835668.txt,p10043646,Cardiomegaly,0,0,1,0,0,0,0,0
+s59435834.txt,p10043646,Cardiomegaly|Pneumonia|Edema,0,0,1,0,1,0,0,1
+s50967294.txt,p10043750,No Finding,1,0,0,0,0,0,0,0
+s52927278.txt,p10044096,Pneumothorax,0,0,0,0,0,1,0,0
+s56482600.txt,p10044096,Pneumonia,0,0,0,0,1,0,0,0
+s56859736.txt,p10044096,Pleural Effusion|Pneumonia|Pneumothorax,0,0,0,1,1,1,0,0
+s57282397.txt,p10044096,No Finding,1,0,0,0,0,0,0,0
+s57401874.txt,p10044096,Pneumonia|Consolidation,0,0,0,0,1,0,1,0
+s58651937.txt,p10044096,Pneumonia,0,0,0,0,1,0,0,0
+s53647608.txt,p10044189,Cardiomegaly|Pleural Effusion|Pneumonia|Consolidation,0,0,1,1,1,0,1,0
+s53945669.txt,p10044189,Cardiomegaly|Pneumonia,0,0,1,0,1,0,0,0
+s56174180.txt,p10044189,Pneumothorax|Consolidation,0,0,0,0,0,1,1,0
+s56367844.txt,p10044189,Pleural Effusion|Pneumonia,0,0,0,1,1,0,0,0
+s50174192.txt,p10044316,Atelectasis|Pneumonia|Pneumothorax,0,1,0,0,1,1,0,0
+s55641540.txt,p10044316,Cardiomegaly|Pneumonia,0,0,1,0,1,0,0,0
+s50090539.txt,p10044391,Atelectasis,0,1,0,0,0,0,0,0
+s52720363.txt,p10044419,Pneumothorax,0,0,0,0,0,1,0,0
+s51208610.txt,p10044859,No Finding,1,0,0,0,0,0,0,0
+s58987797.txt,p10045064,Cardiomegaly,0,0,1,0,0,0,0,0
+s53634153.txt,p10045099,Pleural Effusion,0,0,0,1,0,0,0,0
+s52738750.txt,p10045574,Pneumothorax,0,0,0,0,0,1,0,0
+s53819164.txt,p10045779,Consolidation,0,0,0,0,0,0,1,0
+s50857808.txt,p10045929,Pneumothorax,0,0,0,0,0,1,0,0
+s52686702.txt,p10045929,Atelectasis|Pneumothorax,0,1,0,0,0,1,0,0
+s54575275.txt,p10045929,Pneumothorax,0,0,0,0,0,1,0,0
+s56134006.txt,p10045929,Atelectasis|Cardiomegaly|Pneumothorax,0,1,1,0,0,1,0,0
+s58067291.txt,p10045929,Atelectasis|Pleural Effusion|Pneumothorax,0,1,0,1,0,1,0,0
+s58111227.txt,p10045929,Atelectasis|Pleural Effusion|Pneumothorax|Consolidation,0,1,0,1,0,1,1,0
+s58508761.txt,p10045929,Atelectasis|Pleural Effusion|Pneumothorax,0,1,0,1,0,1,0,0
+s59828529.txt,p10045929,Cardiomegaly|Pneumothorax,0,0,1,0,0,1,0,0
+s59881596.txt,p10045929,Atelectasis|Pleural Effusion|Pneumothorax,0,1,0,1,0,1,0,0
+s58110001.txt,p10046041,Atelectasis|Pneumothorax|Consolidation,0,1,0,0,0,1,1,0
+s50051329.txt,p10046166,Pneumonia|Edema,0,0,0,0,1,0,0,1
+s51738740.txt,p10046166,Pneumonia|Consolidation,0,0,0,0,1,0,1,0
+s53492798.txt,p10046166,Pleural Effusion,0,0,0,1,0,0,0,0
+s56173345.txt,p10046166,Cardiomegaly,0,0,1,0,0,0,0,0
+s57379357.txt,p10046166,No Finding,1,0,0,0,0,0,0,0
+s57977208.txt,p10046166,No Finding,1,0,0,0,0,0,0,0
+s50471483.txt,p10046241,No Finding,1,0,0,0,0,0,0,0
+s56200967.txt,p10046241,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s59720796.txt,p10046282,Pneumothorax,0,0,0,0,0,1,0,0
+s50134126.txt,p10046503,Atelectasis,0,1,0,0,0,0,0,0
+s54827752.txt,p10046592,Pneumonia,0,0,0,0,1,0,0,0
+s55152804.txt,p10046592,No Finding,1,0,0,0,0,0,0,0
+s55960637.txt,p10046592,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s50744827.txt,p10046679,Atelectasis|Cardiomegaly|Pleural Effusion|Edema,0,1,1,1,0,0,0,1
+s51410749.txt,p10046679,Atelectasis|Cardiomegaly|Pleural Effusion|Edema,0,1,1,1,0,0,0,1
+s52056662.txt,p10046679,Atelectasis|Cardiomegaly|Pleural Effusion|Edema,0,1,1,1,0,0,0,1
+s52148996.txt,p10046679,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s52299822.txt,p10046679,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s52944223.txt,p10046679,Cardiomegaly|Pleural Effusion|Edema,0,0,1,1,0,0,0,1
+s53936527.txt,p10046679,Atelectasis|Cardiomegaly|Pneumothorax|Edema,0,1,1,0,0,1,0,1
+s54480315.txt,p10046679,Cardiomegaly,0,0,1,0,0,0,0,0
+s56489636.txt,p10046679,Cardiomegaly,0,0,1,0,0,0,0,0
+s57374230.txt,p10046679,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumonia,0,1,1,1,1,0,0,0
+s57782654.txt,p10046679,Atelectasis|Cardiomegaly|Pleural Effusion|Edema,0,1,1,1,0,0,0,1
+s58048905.txt,p10046679,Atelectasis|Cardiomegaly|Pleural Effusion,0,1,1,1,0,0,0,0
+s58689398.txt,p10046679,Cardiomegaly|Pleural Effusion|Pneumonia,0,0,1,1,1,0,0,0
+s59373859.txt,p10046922,Pneumonia,0,0,0,0,1,0,0,0
+s50770204.txt,p10047172,No Finding,1,0,0,0,0,0,0,0
+s51949233.txt,p10047172,Pneumothorax,0,0,0,0,0,1,0,0
+s51954960.txt,p10047172,Atelectasis|Cardiomegaly|Pleural Effusion,0,1,1,1,0,0,0,0
+s54544556.txt,p10047172,Pleural Effusion,0,0,0,1,0,0,0,0
+s56356284.txt,p10047172,Atelectasis|Cardiomegaly|Edema,0,1,1,0,0,0,0,1
+s56746253.txt,p10047172,Cardiomegaly,0,0,1,0,0,0,0,0
+s52278032.txt,p10047766,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumonia|Edema,0,1,1,1,1,0,0,1
+s54423775.txt,p10047766,Atelectasis|Cardiomegaly|Pleural Effusion,0,1,1,1,0,0,0,0
+s55277368.txt,p10047766,Cardiomegaly|Pleural Effusion|Pneumothorax|Consolidation,0,0,1,1,0,1,1,0
+s55339630.txt,p10047766,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumothorax,0,1,1,1,0,1,0,0
+s53123988.txt,p10047944,Pneumothorax,0,0,0,0,0,1,0,0
+s51826614.txt,p10048001,Atelectasis,0,1,0,0,0,0,0,0
+s52519083.txt,p10048001,Atelectasis|Edema,0,1,0,0,0,0,0,1
+s53330064.txt,p10048001,Pleural Effusion,0,0,0,1,0,0,0,0
+s53380168.txt,p10048001,Atelectasis|Cardiomegaly|Pleural Effusion,0,1,1,1,0,0,0,0
+s54792659.txt,p10048001,Pleural Effusion|Pneumothorax|Consolidation,0,0,0,1,0,1,1,0
+s55896992.txt,p10048001,Atelectasis|Pneumonia|Edema,0,1,0,0,1,0,0,1
+s56731990.txt,p10048001,Cardiomegaly|Pleural Effusion|Pneumonia|Edema,0,0,1,1,1,0,0,1
+s57131783.txt,p10048001,Atelectasis,0,1,0,0,0,0,0,0
+s57185874.txt,p10048001,Cardiomegaly|Pleural Effusion|Pneumothorax|Edema,0,0,1,1,0,1,0,1
+s57376621.txt,p10048001,Atelectasis|Cardiomegaly|Pneumonia,0,1,1,0,1,0,0,0
+s58174077.txt,p10048001,Atelectasis|Cardiomegaly,0,1,1,0,0,0,0,0
+s58465122.txt,p10048001,Pleural Effusion|Pneumonia|Consolidation,0,0,0,1,1,0,1,0
+s58895152.txt,p10048001,No Finding,1,0,0,0,0,0,0,0
+s59223098.txt,p10048001,Atelectasis|Pneumonia,0,1,0,0,1,0,0,0
+s59666772.txt,p10048001,Atelectasis,0,1,0,0,0,0,0,0
+s50891588.txt,p10048244,Consolidation,0,0,0,0,0,0,1,0
+s52960881.txt,p10048244,No Finding,1,0,0,0,0,0,0,0
+s54350402.txt,p10048244,No Finding,1,0,0,0,0,0,0,0
+s54685030.txt,p10048244,Pneumothorax,0,0,0,0,0,1,0,0
+s55126369.txt,p10048244,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s57365558.txt,p10048244,Atelectasis|Cardiomegaly|Pleural Effusion,0,1,1,1,0,0,0,0
+s57971406.txt,p10048244,Atelectasis|Cardiomegaly|Pleural Effusion|Consolidation,0,1,1,1,0,0,1,0
+s58471828.txt,p10048244,Cardiomegaly|Pleural Effusion,0,0,1,1,0,0,0,0
+s58554556.txt,p10048244,No Finding,1,0,0,0,0,0,0,0
+s58727358.txt,p10048244,No Finding,1,0,0,0,0,0,0,0
+s58732361.txt,p10048244,Pleural Effusion|Pneumothorax,0,0,0,1,0,1,0,0
+s59192637.txt,p10048244,No Finding,1,0,0,0,0,0,0,0
+s59453425.txt,p10048244,Pneumothorax,0,0,0,0,0,1,0,0
+s59707821.txt,p10048244,Pneumonia,0,0,0,0,1,0,0,0
+s51673029.txt,p10048451,Pneumonia,0,0,0,0,1,0,0,0
+s51889569.txt,p10048451,No Finding,1,0,0,0,0,0,0,0
+s53489305.txt,p10048451,Pneumonia,0,0,0,0,1,0,0,0
+s54883941.txt,p10048451,Pleural Effusion|Pneumonia|Pneumothorax,0,0,0,1,1,1,0,0
+s56379266.txt,p10048451,Pneumonia,0,0,0,0,1,0,0,0
+s57319650.txt,p10048451,Cardiomegaly|Pneumonia,0,0,1,0,1,0,0,0
+s58989759.txt,p10048451,No Finding,1,0,0,0,0,0,0,0
+s52414596.txt,p10048522,Pleural Effusion,0,0,0,1,0,0,0,0
+s58079528.txt,p10048522,No Finding,1,0,0,0,0,0,0,0
+s55889095.txt,p10048703,Pneumonia|Pneumothorax,0,0,0,0,1,1,0,0
+s52513745.txt,p10048710,No Finding,1,0,0,0,0,0,0,0
+s53729967.txt,p10048710,Consolidation,0,0,0,0,0,0,1,0
+s51327894.txt,p10048900,Pleural Effusion,0,0,0,1,0,0,0,0
+s51337401.txt,p10048986,No Finding,1,0,0,0,0,0,0,0
+s54900831.txt,p10048986,Edema,0,0,0,0,0,0,0,1
+s54969955.txt,p10048986,Pleural Effusion|Pneumonia,0,0,0,1,1,0,0,0
+s56135417.txt,p10048986,Pneumothorax|Consolidation,0,0,0,0,0,1,1,0
+s56592156.txt,p10048986,Cardiomegaly|Consolidation|Edema,0,0,1,0,0,0,1,1
+s58116858.txt,p10048986,Consolidation,0,0,0,0,0,0,1,0
+s54625686.txt,p10049334,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumothorax|Edema,0,1,1,1,0,1,0,1
+s55820511.txt,p10049334,Atelectasis|Cardiomegaly|Pleural Effusion|Edema,0,1,1,1,0,0,0,1
+s58877721.txt,p10049334,Atelectasis|Pleural Effusion|Pneumothorax|Edema,0,1,0,1,0,1,0,1
+s52059571.txt,p10049341,Pleural Effusion,0,0,0,1,0,0,0,0
+s53480270.txt,p10049341,No Finding,1,0,0,0,0,0,0,0
+s56327756.txt,p10049341,No Finding,1,0,0,0,0,0,0,0
+s56823406.txt,p10049782,Cardiomegaly|Pneumonia,0,0,1,0,1,0,0,0
+s55477894.txt,p10049851,Pneumonia,0,0,0,0,1,0,0,0
+s52851881.txt,p10049897,Atelectasis|Pleural Effusion|Pneumonia,0,1,0,1,1,0,0,0
+s50158897.txt,p10049902,Pleural Effusion|Pneumothorax|Consolidation,0,0,0,1,0,1,1,0
+s50339410.txt,p10049902,Atelectasis|Pneumonia,0,1,0,0,1,0,0,0
+s52019420.txt,p10049902,No Finding,1,0,0,0,0,0,0,0
+s53541813.txt,p10049902,Pneumonia,0,0,0,0,1,0,0,0
+s55662406.txt,p10049902,Pleural Effusion|Pneumonia|Pneumothorax,0,0,0,1,1,1,0,0
+s58043521.txt,p10049902,Pleural Effusion,0,0,0,1,0,0,0,0
+s56680686.txt,p10050106,No Finding,1,0,0,0,0,0,0,0
+s51171138.txt,p10050154,No Finding,1,0,0,0,0,0,0,0
+s55215808.txt,p10050205,Atelectasis,0,1,0,0,0,0,0,0
+s53573770.txt,p10050755,Atelectasis|Pneumonia|Consolidation,0,1,0,0,1,0,1,0
+s53755468.txt,p10050755,Pneumonia,0,0,0,0,1,0,0,0
+s54038182.txt,p10050755,Cardiomegaly,0,0,1,0,0,0,0,0
+s54564455.txt,p10050755,No Finding,1,0,0,0,0,0,0,0
+s54751890.txt,p10050755,Cardiomegaly|Pneumonia|Consolidation,0,0,1,0,1,0,1,0
+s56440546.txt,p10050755,Edema,0,0,0,0,0,0,0,1
+s57168919.txt,p10050755,No Finding,1,0,0,0,0,0,0,0
+s59226213.txt,p10050755,Pneumothorax|Consolidation,0,0,0,0,0,1,1,0
+s59861876.txt,p10050790,Pleural Effusion,0,0,0,1,0,0,0,0
+s50094291.txt,p10051043,Pleural Effusion|Consolidation|Edema,0,0,0,1,0,0,1,1
+s51121067.txt,p10051043,Consolidation,0,0,0,0,0,0,1,0
+s51917464.txt,p10051043,Pleural Effusion|Edema,0,0,0,1,0,0,0,1
+s52582060.txt,p10051043,Consolidation,0,0,0,0,0,0,1,0
+s53215480.txt,p10051043,Pneumonia,0,0,0,0,1,0,0,0
+s53567737.txt,p10051043,Cardiomegaly,0,0,1,0,0,0,0,0
+s54323425.txt,p10051043,Cardiomegaly|Pneumonia,0,0,1,0,1,0,0,0
+s54678972.txt,p10051043,Cardiomegaly|Consolidation,0,0,1,0,0,0,1,0
+s54862267.txt,p10051043,Pneumonia,0,0,0,0,1,0,0,0
+s56775724.txt,p10051043,Pleural Effusion|Consolidation|Edema,0,0,0,1,0,0,1,1
+s57250953.txt,p10051043,Pneumonia|Consolidation,0,0,0,0,1,0,1,0
+s57716752.txt,p10051043,Pleural Effusion|Consolidation,0,0,0,1,0,0,1,0
+s55764890.txt,p10051242,No Finding,1,0,0,0,0,0,0,0
+s50859022.txt,p10051658,Pleural Effusion,0,0,0,1,0,0,0,0
+s55657354.txt,p10051825,No Finding,1,0,0,0,0,0,0,0
+s51068958.txt,p10051990,Pleural Effusion|Pneumonia|Edema,0,0,0,1,1,0,0,1
+s53765613.txt,p10051990,Cardiomegaly|Pleural Effusion,0,0,1,1,0,0,0,0
+s52056537.txt,p10052047,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s56683733.txt,p10052077,No Finding,1,0,0,0,0,0,0,0
+s50476467.txt,p10052277,Pleural Effusion|Pneumothorax,0,0,0,1,0,1,0,0
+s53462370.txt,p10052277,No Finding,1,0,0,0,0,0,0,0
+s53511796.txt,p10052277,Pneumothorax,0,0,0,0,0,1,0,0
+s55162593.txt,p10052277,No Finding,1,0,0,0,0,0,0,0
+s52273402.txt,p10052407,Pleural Effusion|Pneumonia,0,0,0,1,1,0,0,0
+s53840405.txt,p10052802,No Finding,1,0,0,0,0,0,0,0
+s50472162.txt,p10052926,Pleural Effusion|Pneumonia,0,0,0,1,1,0,0,0
+s50929633.txt,p10052926,Pneumonia,0,0,0,0,1,0,0,0
+s51808680.txt,p10052926,Atelectasis|Cardiomegaly|Pneumonia,0,1,1,0,1,0,0,0
+s51951563.txt,p10052926,Pleural Effusion,0,0,0,1,0,0,0,0
+s54704427.txt,p10052926,Pleural Effusion|Pneumonia,0,0,0,1,1,0,0,0
+s56504845.txt,p10052926,Pneumonia,0,0,0,0,1,0,0,0
+s56799999.txt,p10052926,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumonia,0,1,1,1,1,0,0,0
+s59395476.txt,p10052926,Pleural Effusion|Pneumonia|Pneumothorax|Consolidation,0,0,0,1,1,1,1,0
+s51784751.txt,p10052992,Atelectasis|Cardiomegaly,0,1,1,0,0,0,0,0
+s55087891.txt,p10052992,Atelectasis|Pleural Effusion|Pneumonia,0,1,0,1,1,0,0,0
+s55754919.txt,p10053000,Atelectasis|Cardiomegaly|Pleural Effusion,0,1,1,1,0,0,0,0
+s58572657.txt,p10053184,Consolidation,0,0,0,0,0,0,1,0
+s55471183.txt,p10053207,Atelectasis|Pneumonia,0,1,0,0,1,0,0,0
+s58225815.txt,p10053207,Atelectasis|Consolidation,0,1,0,0,0,0,1,0
+s59379546.txt,p10053357,No Finding,1,0,0,0,0,0,0,0
+s50053035.txt,p10053611,Pneumothorax,0,0,0,0,0,1,0,0
+s50546425.txt,p10053611,Pneumothorax,0,0,0,0,0,1,0,0
+s54306622.txt,p10053611,No Finding,1,0,0,0,0,0,0,0
+s51271155.txt,p10053782,Atelectasis|Cardiomegaly|Pneumonia|Pneumothorax,0,1,1,0,1,1,0,0
+s51118387.txt,p10053918,No Finding,1,0,0,0,0,0,0,0
+s52344469.txt,p10054277,No Finding,1,0,0,0,0,0,0,0
+s58516571.txt,p10054277,Atelectasis|Cardiomegaly,0,1,1,0,0,0,0,0
+s58951907.txt,p10054277,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s59617838.txt,p10054277,Atelectasis|Pneumonia,0,1,0,0,1,0,0,0
+s52018146.txt,p10054639,Cardiomegaly,0,0,1,0,0,0,0,0
+s55344325.txt,p10054639,Consolidation,0,0,0,0,0,0,1,0
+s58535890.txt,p10054639,Cardiomegaly|Pleural Effusion,0,0,1,1,0,0,0,0
+s50874464.txt,p10055034,Pleural Effusion|Consolidation|Edema,0,0,0,1,0,0,1,1
+s52988883.txt,p10055034,Cardiomegaly|Pleural Effusion|Pneumonia|Edema,0,0,1,1,1,0,0,1
+s55450321.txt,p10055034,Cardiomegaly|Pleural Effusion,0,0,1,1,0,0,0,0
+s55957750.txt,p10055034,Pneumonia|Pneumothorax,0,0,0,0,1,1,0,0
+s56527119.txt,p10055034,Edema,0,0,0,0,0,0,0,1
+s57890116.txt,p10055034,Pleural Effusion|Pneumothorax|Edema,0,0,0,1,0,1,0,1
+s55002915.txt,p10055072,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s54584237.txt,p10055344,Cardiomegaly|Pneumothorax,0,0,1,0,0,1,0,0
+s55260214.txt,p10055344,Cardiomegaly|Pleural Effusion,0,0,1,1,0,0,0,0
+s55693941.txt,p10055344,Atelectasis|Cardiomegaly|Pneumonia|Edema,0,1,1,0,1,0,0,1
+s57386530.txt,p10055344,Pleural Effusion,0,0,0,1,0,0,0,0
+s58045520.txt,p10055344,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s59607496.txt,p10055344,Atelectasis,0,1,0,0,0,0,0,0
+s50608704.txt,p10055361,Cardiomegaly|Pleural Effusion|Pneumonia|Edema,0,0,1,1,1,0,0,1
+s51116681.txt,p10055361,Cardiomegaly,0,0,1,0,0,0,0,0
+s54927720.txt,p10055361,Cardiomegaly|Pleural Effusion|Edema,0,0,1,1,0,0,0,1
+s56381894.txt,p10055361,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s58669595.txt,p10055361,Cardiomegaly|Pleural Effusion|Edema,0,0,1,1,0,0,0,1
+s58672477.txt,p10055361,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s59087693.txt,p10055361,Cardiomegaly|Pneumothorax|Edema,0,0,1,0,0,1,0,1
+s59790370.txt,p10055361,Pneumonia,0,0,0,0,1,0,0,0
+s52767042.txt,p10055694,Edema,0,0,0,0,0,0,0,1
+s53544097.txt,p10055694,Cardiomegaly|Consolidation|Edema,0,0,1,0,0,0,1,1
+s54669448.txt,p10055694,Atelectasis|Cardiomegaly|Pneumonia|Edema,0,1,1,0,1,0,0,1
+s54848722.txt,p10055694,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s55007777.txt,p10055694,Cardiomegaly|Pleural Effusion,0,0,1,1,0,0,0,0
+s55036106.txt,p10055694,Cardiomegaly|Pleural Effusion|Pneumonia|Consolidation|Edema,0,0,1,1,1,0,1,1
+s55081774.txt,p10055694,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s55786904.txt,p10055694,Atelectasis|Cardiomegaly|Pleural Effusion|Edema,0,1,1,1,0,0,0,1
+s56008505.txt,p10055694,Cardiomegaly|Pleural Effusion|Pneumonia|Edema,0,0,1,1,1,0,0,1
+s57963923.txt,p10055694,Atelectasis|Cardiomegaly|Pneumonia|Edema,0,1,1,0,1,0,0,1
+s59377047.txt,p10055694,Atelectasis|Cardiomegaly|Pleural Effusion|Edema,0,1,1,1,0,0,0,1
+s59418510.txt,p10055694,Cardiomegaly|Pleural Effusion|Edema,0,0,1,1,0,0,0,1
+s59632945.txt,p10055694,Cardiomegaly|Pleural Effusion|Pneumonia|Consolidation|Edema,0,0,1,1,1,0,1,1
+s59844689.txt,p10055694,Atelectasis|Cardiomegaly|Pleural Effusion|Edema,0,1,1,1,0,0,0,1
+s59993559.txt,p10055694,Cardiomegaly|Pneumonia|Edema,0,0,1,0,1,0,0,1
+s55474301.txt,p10056037,No Finding,1,0,0,0,0,0,0,0
+s55555237.txt,p10056209,Pneumonia,0,0,0,0,1,0,0,0
+s50233501.txt,p10056223,Pneumothorax,0,0,0,0,0,1,0,0
+s50510907.txt,p10056223,Cardiomegaly|Pleural Effusion,0,0,1,1,0,0,0,0
+s50581723.txt,p10056223,Cardiomegaly|Pleural Effusion,0,0,1,1,0,0,0,0
+s51129298.txt,p10056223,Cardiomegaly|Pneumonia,0,0,1,0,1,0,0,0
+s51632024.txt,p10056223,Cardiomegaly,0,0,1,0,0,0,0,0
+s52121411.txt,p10056223,Atelectasis|Pleural Effusion|Pneumothorax,0,1,0,1,0,1,0,0
+s53347394.txt,p10056223,No Finding,1,0,0,0,0,0,0,0
+s53347987.txt,p10056223,Atelectasis|Cardiomegaly|Pleural Effusion,0,1,1,1,0,0,0,0
+s53428079.txt,p10056223,No Finding,1,0,0,0,0,0,0,0
+s54557046.txt,p10056223,No Finding,1,0,0,0,0,0,0,0
+s54590321.txt,p10056223,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s54982251.txt,p10056223,Atelectasis,0,1,0,0,0,0,0,0
+s55763184.txt,p10056223,Atelectasis|Pneumonia,0,1,0,0,1,0,0,0
+s57733074.txt,p10056223,Pneumonia,0,0,0,0,1,0,0,0
+s58799130.txt,p10056223,Atelectasis|Pleural Effusion|Pneumothorax,0,1,0,1,0,1,0,0
+s59315493.txt,p10056223,Atelectasis|Cardiomegaly|Pleural Effusion|Consolidation|Edema,0,1,1,1,0,0,1,1
+s57565663.txt,p10056441,Pneumothorax,0,0,0,0,0,1,0,0
+s51282729.txt,p10056612,No Finding,1,0,0,0,0,0,0,0
+s57492693.txt,p10056612,Pleural Effusion|Pneumothorax,0,0,0,1,0,1,0,0
+s51968288.txt,p10057005,No Finding,1,0,0,0,0,0,0,0
+s53440914.txt,p10057005,No Finding,1,0,0,0,0,0,0,0
+s54563587.txt,p10057005,No Finding,1,0,0,0,0,0,0,0
+s56057364.txt,p10057005,Pleural Effusion|Pneumonia|Edema,0,0,0,1,1,0,0,1
+s57217578.txt,p10057005,No Finding,1,0,0,0,0,0,0,0
+s52592034.txt,p10057009,Atelectasis|Cardiomegaly,0,1,1,0,0,0,0,0
+s55685825.txt,p10057009,Atelectasis|Pneumonia|Consolidation,0,1,0,0,1,0,1,0
+s52811464.txt,p10057070,Cardiomegaly|Pleural Effusion|Pneumothorax,0,0,1,1,0,1,0,0
+s57239632.txt,p10057178,No Finding,1,0,0,0,0,0,0,0
+s52168780.txt,p10057482,Cardiomegaly|Pleural Effusion|Pneumonia|Edema,0,0,1,1,1,0,0,1
+s54225705.txt,p10057559,No Finding,1,0,0,0,0,0,0,0
+s50343567.txt,p10057763,Atelectasis|Cardiomegaly|Pleural Effusion|Consolidation,0,1,1,1,0,0,1,0
+s51945040.txt,p10057763,No Finding,1,0,0,0,0,0,0,0
+s55746324.txt,p10058033,Atelectasis|Pneumothorax,0,1,0,0,0,1,0,0
+s52708578.txt,p10058116,Pneumothorax|Consolidation,0,0,0,0,0,1,1,0
+s52848611.txt,p10058150,No Finding,1,0,0,0,0,0,0,0
+s55135339.txt,p10058150,Cardiomegaly|Consolidation,0,0,1,0,0,0,1,0
+s50255541.txt,p10058575,Atelectasis|Pleural Effusion|Pneumonia|Consolidation|Edema,0,1,0,1,1,0,1,1
+s50325664.txt,p10058575,Pleural Effusion,0,0,0,1,0,0,0,0
+s51144654.txt,p10058575,Atelectasis,0,1,0,0,0,0,0,0
+s51872105.txt,p10058575,Atelectasis|Cardiomegaly,0,1,1,0,0,0,0,0
+s52040799.txt,p10058575,Atelectasis|Pleural Effusion|Pneumothorax,0,1,0,1,0,1,0,0
+s52415124.txt,p10058575,Atelectasis,0,1,0,0,0,0,0,0
+s53122863.txt,p10058575,Pleural Effusion|Pneumonia,0,0,0,1,1,0,0,0
+s53774370.txt,p10058575,Atelectasis|Pleural Effusion|Pneumonia|Pneumothorax,0,1,0,1,1,1,0,0
+s55424675.txt,p10058575,No Finding,1,0,0,0,0,0,0,0
+s55438536.txt,p10058575,Pleural Effusion,0,0,0,1,0,0,0,0
+s55928284.txt,p10058575,No Finding,1,0,0,0,0,0,0,0
+s57299045.txt,p10058575,Cardiomegaly|Pneumonia,0,0,1,0,1,0,0,0
+s59404180.txt,p10058575,Atelectasis|Pleural Effusion|Pneumonia|Consolidation|Edema,0,1,0,1,1,0,1,1
+s59833091.txt,p10058575,No Finding,1,0,0,0,0,0,0,0
+s57441601.txt,p10058642,Consolidation,0,0,0,0,0,0,1,0
+s59082434.txt,p10058697,No Finding,1,0,0,0,0,0,0,0
+s55308763.txt,p10058813,Consolidation,0,0,0,0,0,0,1,0
+s59412780.txt,p10058910,No Finding,1,0,0,0,0,0,0,0
+s53583135.txt,p10058974,No Finding,1,0,0,0,0,0,0,0
+s54456726.txt,p10058974,Edema,0,0,0,0,0,0,0,1
+s54893609.txt,p10058974,No Finding,1,0,0,0,0,0,0,0
+s57577174.txt,p10058974,Pneumonia|Pneumothorax,0,0,0,0,1,1,0,0
+s56976885.txt,p10059615,No Finding,1,0,0,0,0,0,0,0
+s50452030.txt,p10059653,Pneumonia,0,0,0,0,1,0,0,0
+s50008601.txt,p10059690,Pleural Effusion|Pneumothorax,0,0,0,1,0,1,0,0
+s52147847.txt,p10059690,Pleural Effusion|Edema,0,0,0,1,0,0,0,1
+s54149097.txt,p10059690,Atelectasis|Pneumonia,0,1,0,0,1,0,0,0
+s50063022.txt,p10060142,Pleural Effusion,0,0,0,1,0,0,0,0
+s52115374.txt,p10060142,No Finding,1,0,0,0,0,0,0,0
+s52590350.txt,p10060142,Pleural Effusion,0,0,0,1,0,0,0,0
+s54426084.txt,p10060142,No Finding,1,0,0,0,0,0,0,0
+s56946673.txt,p10060142,Pleural Effusion|Pneumonia,0,0,0,1,1,0,0,0
+s59490715.txt,p10060142,Pneumothorax|Consolidation,0,0,0,0,0,1,1,0
+s51650444.txt,p10060204,Cardiomegaly|Pneumonia,0,0,1,0,1,0,0,0
+s53765730.txt,p10060204,Pneumonia,0,0,0,0,1,0,0,0
+s55310039.txt,p10060703,Pleural Effusion,0,0,0,1,0,0,0,0
+s57167111.txt,p10060703,Pneumothorax,0,0,0,0,0,1,0,0
+s52706779.txt,p10060863,No Finding,1,0,0,0,0,0,0,0
+s54183885.txt,p10060863,No Finding,1,0,0,0,0,0,0,0
+s59946627.txt,p10061358,Consolidation,0,0,0,0,0,0,1,0
+s50197892.txt,p10061468,Cardiomegaly|Pneumothorax,0,0,1,0,0,1,0,0
+s53221797.txt,p10061593,Pneumothorax,0,0,0,0,0,1,0,0
+s56718765.txt,p10061593,Pneumothorax,0,0,0,0,0,1,0,0
+s58463156.txt,p10061593,Pneumothorax,0,0,0,0,0,1,0,0
+s57693716.txt,p10061731,Pneumonia,0,0,0,0,1,0,0,0
+s57947282.txt,p10061731,Consolidation,0,0,0,0,0,0,1,0
+s54721029.txt,p10062020,No Finding,1,0,0,0,0,0,0,0
+s55700573.txt,p10062020,Atelectasis|Pleural Effusion|Pneumonia,0,1,0,1,1,0,0,0
+s58128787.txt,p10062020,Cardiomegaly,0,0,1,0,0,0,0,0
+s58785934.txt,p10062020,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumonia|Pneumothorax|Edema,0,1,1,1,1,1,0,1
+s55699985.txt,p10062501,No Finding,1,0,0,0,0,0,0,0
+s57987233.txt,p10062501,Pleural Effusion|Pneumothorax,0,0,0,1,0,1,0,0
+s56625487.txt,p10062522,Pleural Effusion|Pneumothorax,0,0,0,1,0,1,0,0
+s52604980.txt,p10062615,No Finding,1,0,0,0,0,0,0,0
+s50247193.txt,p10062617,Cardiomegaly|Pleural Effusion,0,0,1,1,0,0,0,0
+s50346563.txt,p10062617,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumonia,0,1,1,1,1,0,0,0
+s52207698.txt,p10062617,Cardiomegaly|Pleural Effusion|Pneumothorax|Edema,0,0,1,1,0,1,0,1
+s52442584.txt,p10062617,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s53916328.txt,p10062617,Atelectasis|Cardiomegaly|Pneumothorax|Edema,0,1,1,0,0,1,0,1
+s54889099.txt,p10062617,Cardiomegaly|Pneumonia|Edema,0,0,1,0,1,0,0,1
+s55170181.txt,p10062617,Atelectasis|Cardiomegaly|Pneumonia,0,1,1,0,1,0,0,0
+s58048417.txt,p10062617,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumonia|Pneumothorax|Edema,0,1,1,1,1,1,0,1
+s58274130.txt,p10062617,Atelectasis|Cardiomegaly|Pleural Effusion|Edema,0,1,1,1,0,0,0,1
+s59986994.txt,p10062617,Atelectasis|Pleural Effusion|Consolidation,0,1,0,1,0,0,1,0
+s53731682.txt,p10062692,No Finding,1,0,0,0,0,0,0,0
+s55587830.txt,p10062692,Atelectasis|Pleural Effusion|Pneumonia|Pneumothorax,0,1,0,1,1,1,0,0
+s58442156.txt,p10062692,No Finding,1,0,0,0,0,0,0,0
+s59688344.txt,p10062692,Pleural Effusion|Pneumonia|Consolidation,0,0,0,1,1,0,1,0
+s50064996.txt,p10062981,Cardiomegaly,0,0,1,0,0,0,0,0
+s56136181.txt,p10062981,No Finding,1,0,0,0,0,0,0,0
+s52504796.txt,p10063280,Cardiomegaly,0,0,1,0,0,0,0,0
+s57709757.txt,p10063280,Pneumothorax,0,0,0,0,0,1,0,0
+s50088361.txt,p10063534,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumonia|Edema,0,1,1,1,1,0,0,1
+s54266862.txt,p10063534,Cardiomegaly|Pleural Effusion|Pneumonia|Pneumothorax|Edema,0,0,1,1,1,1,0,1
+s56113372.txt,p10063762,Pneumonia,0,0,0,0,1,0,0,0
+s54814005.txt,p10063856,Atelectasis|Pleural Effusion|Pneumothorax,0,1,0,1,0,1,0,0
+s56759094.txt,p10063856,Atelectasis|Pleural Effusion|Pneumonia,0,1,0,1,1,0,0,0
+s59111503.txt,p10063856,Atelectasis|Pneumonia,0,1,0,0,1,0,0,0
+s59903306.txt,p10063856,Pleural Effusion|Consolidation,0,0,0,1,0,0,1,0
+s50590063.txt,p10064049,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s51327292.txt,p10064049,Atelectasis|Pleural Effusion|Pneumonia|Edema,0,1,0,1,1,0,0,1
+s51334169.txt,p10064049,Cardiomegaly|Pneumonia|Pneumothorax|Consolidation|Edema,0,0,1,0,1,1,1,1
+s51373990.txt,p10064049,No Finding,1,0,0,0,0,0,0,0
+s51742046.txt,p10064049,Pleural Effusion|Pneumonia,0,0,0,1,1,0,0,0
+s52322584.txt,p10064049,Cardiomegaly|Consolidation,0,0,1,0,0,0,1,0
+s53745704.txt,p10064049,Atelectasis|Cardiomegaly|Pleural Effusion|Edema,0,1,1,1,0,0,0,1
+s53998334.txt,p10064049,Cardiomegaly|Pleural Effusion|Pneumonia|Consolidation,0,0,1,1,1,0,1,0
+s54392870.txt,p10064049,Cardiomegaly|Pleural Effusion|Edema,0,0,1,1,0,0,0,1
+s54536926.txt,p10064049,Cardiomegaly|Pleural Effusion|Pneumonia|Consolidation,0,0,1,1,1,0,1,0
+s54885215.txt,p10064049,Cardiomegaly|Pleural Effusion|Pneumothorax,0,0,1,1,0,1,0,0
+s55505244.txt,p10064049,Atelectasis|Pleural Effusion|Pneumonia|Consolidation|Edema,0,1,0,1,1,0,1,1
+s55829478.txt,p10064049,Cardiomegaly|Pleural Effusion|Pneumonia|Edema,0,0,1,1,1,0,0,1
+s56368658.txt,p10064049,Cardiomegaly|Pneumonia|Consolidation,0,0,1,0,1,0,1,0
+s56453401.txt,p10064049,Atelectasis|Pleural Effusion|Consolidation|Edema,0,1,0,1,0,0,1,1
+s57160141.txt,p10064049,Cardiomegaly|Pneumonia|Pneumothorax,0,0,1,0,1,1,0,0
+s57279039.txt,p10064049,Pleural Effusion|Pneumonia|Pneumothorax|Edema,0,0,0,1,1,1,0,1
+s57371365.txt,p10064049,Pleural Effusion|Edema,0,0,0,1,0,0,0,1
+s57816907.txt,p10064049,Cardiomegaly|Pneumonia,0,0,1,0,1,0,0,0
+s57819907.txt,p10064049,Cardiomegaly,0,0,1,0,0,0,0,0
+s57850450.txt,p10064049,Cardiomegaly|Pleural Effusion|Pneumonia,0,0,1,1,1,0,0,0
+s57926554.txt,p10064049,Cardiomegaly|Pleural Effusion|Edema,0,0,1,1,0,0,0,1
+s58749812.txt,p10064049,Cardiomegaly|Pneumonia|Consolidation|Edema,0,0,1,0,1,0,1,1
+s58833217.txt,p10064049,Cardiomegaly|Pneumonia|Pneumothorax|Consolidation,0,0,1,0,1,1,1,0
+s59114682.txt,p10064049,Cardiomegaly|Pneumothorax,0,0,1,0,0,1,0,0
+s59450994.txt,p10064049,Cardiomegaly|Pleural Effusion,0,0,1,1,0,0,0,0
+s59540552.txt,p10064049,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s55777240.txt,p10064124,Pleural Effusion|Pneumothorax,0,0,0,1,0,1,0,0
+s51282081.txt,p10064176,No Finding,1,0,0,0,0,0,0,0
+s51635815.txt,p10064390,Pneumonia|Consolidation,0,0,0,0,1,0,1,0
+s52896409.txt,p10064390,Atelectasis|Cardiomegaly|Pneumonia,0,1,1,0,1,0,0,0
+s53483779.txt,p10064390,Atelectasis|Pleural Effusion|Pneumonia|Consolidation|Edema,0,1,0,1,1,0,1,1
+s53553355.txt,p10064390,Atelectasis|Cardiomegaly|Pleural Effusion,0,1,1,1,0,0,0,0
+s53860499.txt,p10064390,Atelectasis|Pleural Effusion,0,1,0,1,0,0,0,0
+s58688273.txt,p10064390,Cardiomegaly|Edema,0,0,1,0,0,0,0,1
+s53148023.txt,p10064678,Atelectasis|Pleural Effusion|Pneumonia|Edema,0,1,0,1,1,0,0,1
+s53173852.txt,p10064678,Pneumonia|Pneumothorax,0,0,0,0,1,1,0,0
+s54227874.txt,p10064678,Atelectasis|Cardiomegaly,0,1,1,0,0,0,0,0
+s54868430.txt,p10064678,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumothorax|Edema,0,1,1,1,0,1,0,1
+s55354126.txt,p10064678,Atelectasis|Cardiomegaly|Pleural Effusion|Pneumonia,0,1,1,1,1,0,0,0
+s59792119.txt,p10064678,Atelectasis|Cardiomegaly|Pleural Effusion|Consolidation,0,1,1,1,0,0,1,0
+s59901201.txt,p10064678,Atelectasis|Pneumothorax,0,1,0,0,0,1,0,0
+s59860899.txt,p10064818,No Finding,1,0,0,0,0,0,0,0
+s53891313.txt,p10065125,Atelectasis|Cardiomegaly|Pneumothorax,0,1,1,0,0,1,0,0
+s54719123.txt,p10065125,Atelectasis|Edema,0,1,0,0,0,0,0,1
+s50984843.txt,p10065220,Atelectasis|Cardiomegaly|Pleural Effusion,0,1,1,1,0,0,0,0
+s51090606.txt,p10065354,No Finding,1,0,0,0,0,0,0,0
+s54049005.txt,p10065354,Pleural Effusion,0,0,0,1,0,0,0,0
+s51143472.txt,p10065383,Cardiomegaly|Pleural Effusion|Consolidation,0,0,1,1,0,0,1,0
+s51280385.txt,p10065383,Pleural Effusion,0,0,0,1,0,0,0,0
+s51342751.txt,p10065383,Pneumonia,0,0,0,0,1,0,0,0
+s51350342.txt,p10065383,Pneumothorax,0,0,0,0,0,1,0,0
+s51407501.txt,p10065383,No Finding,1,0,0,0,0,0,0,0
+s51464212.txt,p10065383,Pneumothorax|Consolidation,0,0,0,0,0,1,1,0
+s51890757.txt,p10065383,Pneumonia|Consolidation,0,0,0,0,1,0,1,0
+s52292453.txt,p10065383,Pneumothorax,0,0,0,0,0,1,0,0
+s52736576.txt,p10065383,Pleural Effusion,0,0,0,1,0,0,0,0
+s53014323.txt,p10065383,Pneumothorax,0,0,0,0,0,1,0,0
+s53295124.txt,p10065383,Pneumothorax,0,0,0,0,0,1,0,0
+s53483649.txt,p10065383,Pleural Effusion|Pneumothorax|Consolidation,0,0,0,1,0,1,1,0
+s53525291.txt,p10065383,Atelectasis|Pleural Effusion|Pneumothorax,0,1,0,1,0,1,0,0
+s54059506.txt,p10065383,Pleural Effusion|Pneumonia|Consolidation,0,0,0,1,1,0,1,0
+s54100577.txt,p10065383,Pleural Effusion|Pneumonia|Consolidation,0,0,0,1,1,0,1,0
+s54640497.txt,p10065383,Pleural Effusion|Edema,0,0,0,1,0,0,0,1
+s55304894.txt,p10065383,Pneumonia|Pneumothorax,0,0,0,0,1,1,0,0
+s55376096.txt,p10065383,Pneumothorax,0,0,0,0,0,1,0,0
+s55506765.txt,p10065383,Consolidation,0,0,0,0,0,0,1,0
+s55539498.txt,p10065383,Cardiomegaly|Pleural Effusion,0,0,1,1,0,0,0,0
+s55971968.txt,p10065383,Pleural Effusion|Pneumothorax,0,0,0,1,0,1,0,0
