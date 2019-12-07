@@ -17,6 +17,11 @@ The codes of implemented models were based on [Chou's work](https://github.com/b
 1. Currently [NIH dataset](https://nihcc.app.box.com/v/ChestXray-NIHCC) were added into `train.csv`, `dev.csv` and `test.csv` in `data/default_split` folder.
 2. Another new dataset [MIMIC-CXR](https://physionet.org/content/mimic-cxr/2.0.0/) will be added. The X-ray report will be converted to the class labels for new train, dev and test dataset. 
 
+## HeatMap
+Run cam.py to output heatmap with ground truth bounding box. The current `config.ini` uses retrained weights `data/default_split/best_weights_20191029_test2.h5`.
+
+The example heatmap image is `Atelectasis.00003787_003.png`.
+
 ## Author
 Viveak Ravichandiran (SUNet ID: vravicha)
 Aditya Srivastava(SUNet ID: adityaks)

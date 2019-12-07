@@ -6,6 +6,7 @@ from configparser import ConfigParser
 from generator import AugmentedImageSequence
 from models.keras import ModelFactory
 from keras import backend as kb
+from utility import get_sample_counts
 
 
 def get_output_layer(model, layer_name):
@@ -40,18 +41,22 @@ def create_cam(df_g, output_dir, image_source_dir, model, generator, class_names
     output_path = os.path.join(output_dir, f"{label}.{file_name}")
 
     img_transformed = generator.load_image(file_name)
+    img_transformed = generator.transform_batch_images(img_transformed)
 
     # CAM overlay
     # Get the 512 input weights to the softmax.
     class_weights = model.layers[-1].get_weights()[0]
+    print(class_weights.shape)
     final_conv_layer = get_output_layer(model, "bn")
     get_output = kb.function([model.layers[0].input], [final_conv_layer.output, model.layers[-1].output])
     [conv_outputs, predictions] = get_output([np.array([img_transformed])])
+    print(conv_outputs.shape)
+    print(predictions)
     conv_outputs = conv_outputs[0, :, :, :]
-
+    
     # Create the class activation map.
     cam = np.zeros(dtype=np.float32, shape=(conv_outputs.shape[:2]))
-    for i, w in enumerate(class_weights[index]):
+    for i, w in enumerate(class_weights[:, index]):
         cam += w * conv_outputs[:, :, i]
     # print(f"predictions: {predictions}")
     cam /= np.max(cam)
@@ -81,15 +86,36 @@ def main():
 
     # default config
     output_dir = cp["DEFAULT"].get("output_dir")
+    if not os.path.exists(output_dir):
+        os.mkdir(output_dir)
     base_model_name = cp["DEFAULT"].get("base_model_name")
     class_names = cp["DEFAULT"].get("class_names").split(",")
     image_source_dir = cp["DEFAULT"].get("image_source_dir")
     image_dimension = cp["TRAIN"].getint("image_dimension")
+    batch_size = cp["TEST"].getint("batch_size")
+    test_steps = cp["TEST"].get("test_steps")
 
     # parse weights file path
     output_weights_name = cp["TRAIN"].get("output_weights_name")
     weights_path = os.path.join(output_dir, output_weights_name)
-    best_weights_path = os.path.join(output_dir, f"best_{output_weights_name}")
+    data_set_dir = cp["TRAIN"].get("dataset_csv_dir")
+    input_weights_name = cp["TRAIN"].get("input_weights_name")
+    best_weights_path = os.path.join(data_set_dir, f"best_{input_weights_name}")
+    
+    # get test sample count
+    test_counts, _ = get_sample_counts(data_set_dir, "test", class_names)
+
+    # compute steps
+    if test_steps == "auto":
+        test_steps = int(test_counts / batch_size)
+    else:
+        try:
+            test_steps = int(test_steps)
+        except ValueError:
+            raise ValueError(f"""
+                test_steps: {test_steps} is invalid,
+                please use 'auto' or integer.
+                """)
 
     # CAM config
     bbox_list_file = cp["CAM"].get("bbox_list_file")
@@ -115,13 +141,13 @@ def main():
 
     print("create a generator for loading transformed images")
     cam_sequence = AugmentedImageSequence(
-        dataset_csv_file=os.path.join(output_dir, "test.csv"),
+        dataset_csv_file=os.path.join(data_set_dir, "test.csv"),
         class_names=class_names,
         source_image_dir=image_source_dir,
-        batch_size=1,
+        batch_size=batch_size,
         target_size=(image_dimension, image_dimension),
         augmenter=None,
-        steps=1,
+        steps=test_steps,
         shuffle_on_epoch_end=False,
     )
 

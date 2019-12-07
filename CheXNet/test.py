@@ -69,7 +69,8 @@ def main():
     print("** load test generator **")
     test_sequence = AugmentedImageSequence(
 #         dataset_csv_file=os.path.join(output_dir, "dev.csv"),
-        dataset_csv_file=os.path.join(data_set_dir, "test.csv"),
+#         dataset_csv_file=os.path.join(data_set_dir, "test.csv"),
+        dataset_csv_file=os.path.join(data_set_dir, "MIMIC_data_test_1206_combined.csv"),
         class_names=class_names,
         source_image_dir=image_source_dir,
         batch_size=batch_size,
@@ -83,8 +84,8 @@ def main():
     print("** make prediction **")
     y_hat = model.predict_generator(test_sequence, verbose=1)
     y = test_sequence.get_y_true()
-#     np.savetxt(os.path.join(output_dir, 'y_hat_noRandom.txt'), y_hat)
-#     np.savetxt(os.path.join(output_dir, 'y_noRandom.txt'), y)
+#     np.savetxt(os.path.join(output_dir, 'y_hat_1205_default_weight.txt'), y_hat)
+#     np.savetxt(os.path.join(output_dir, 'y_1205.txt'), y)
 
     test_log_path = os.path.join(output_dir, "test.log")
     print(f"** write log to {test_log_path} **")
